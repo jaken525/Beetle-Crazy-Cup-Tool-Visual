@@ -19,4 +19,4 @@ tri and nor. Automatic texture selection mode, gets the texture number due to th
 # Download
 The latest version: v1.7
 
-- https://www.moddb.com/mods/beetle-crazy-cup-tool[Moddb]
+- ModDB: [Download](https://www.moddb.com/mods/beetle-crazy-cup-tool)
