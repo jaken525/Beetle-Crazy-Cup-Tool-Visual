@@ -1,0 +1,62 @@
+﻿  Converter.cpp
+  HelpForm.cpp
+  mk64n.cpp
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(202,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(242,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(283,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(313,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(346,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(377,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(386,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(394,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(415,20): warning C4018: <: несоответствие типов со знаком и без знака
+  obj2infConverter.cpp
+C:\Users\Admin\source\repos\BCCTool\BCCTool\obj2inf.h(430,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Undat.cpp
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(46,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(85,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(130,21): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(147,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(205,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(211,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(214,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(227,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(239,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(256,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(272,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(286,30): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(296,21): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(300,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(329,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(332,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(335,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(349,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Window.cpp
+C:\Users\Admin\source\repos\BCCTool\BCCTool\obj2inf.h(430,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(72,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(112,134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(112,89): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(112,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(113,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(113,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(113,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(114,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(114,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(114,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(116,134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(116,89): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(116,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(117,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(117,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(117,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(118,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(118,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(118,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(216,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(216,36): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(216,41): warning C4305: инициализация: усечение из "double" в "float"
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  Converter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BCCTool.vcxproj -> C:\Users\Admin\source\repos\BCCTool\x64\Debug\BCCTool.exe
+C:\Users\Admin\source\repos\BCCTool\BCCTool\obj\BCCTool.vcxproj.nuget.g.targets(4,5): warning : Пакеты, содержащие целевые объекты и PROPS-файлы MSBuild, не могут быть полностью установлены в проектах, предназначенных для нескольких платформ. Целевые объекты и PROPS-файлы MSBuild были пропущены.
