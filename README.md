@@ -14,7 +14,7 @@ tri and nor. Automatic texture selection mode, gets the texture number due to th
 
 - inf2obj. Converter of 3d models from inf, ver, tri files to wavefront obj. It converts along with the material that has the texture number in its name. Made by coreynguyen.
 
-- Profile Editor. Save and high score editor for all game modes. You can change both the player's achievements and the state of each race. Also works with Radical Drive and Larry Ragland's 4x4 Challenge/Arena 4x4.
+- Profile Editor. Save and high score editor for all game modes. You can change both the player's achievements and the state of each race. Also works with Radical Drive.
 
 # Download
 The latest version: v1.7
