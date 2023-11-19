@@ -1,4 +1,4 @@
-# Beetle-Crazy-Cup-Tool-Visual-Edition
+# Beetle Crazy Cup Tool: Visual Edition
 My project is related to the beetle crazy cup game. Supported.
 
 With this program, you can work with game files. Useful for modding.
@@ -20,3 +20,4 @@ tri and nor. Automatic texture selection mode, gets the texture number due to th
 The latest version: v1.7
 
 - ModDB - [Download](https://www.moddb.com/mods/beetle-crazy-cup-tool)
+- GitHub - [Download](https://github.com/jaken525/Beetle-Crazy-Cup-Tool-Visual/releases/tag/BCCTool)
