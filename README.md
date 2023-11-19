@@ -16,4 +16,7 @@ tri and nor. Automatic texture selection mode, gets the texture number due to th
 
 - Profile Editor. Save and high score editor for all game modes. You can change both the player's achievements and the state of each race. Also works with Radical Drive and Larry Ragland's 4x4 Challenge/Arena 4x4.
 
-# The latest version: v1.7
+# Download
+The latest version: v1.7
+
+- https://www.moddb.com/mods/beetle-crazy-cup-tool[Moddb]
