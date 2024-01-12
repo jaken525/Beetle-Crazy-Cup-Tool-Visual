@@ -1,62 +1,1211 @@
-﻿  Converter.cpp
-  HelpForm.cpp
-  mk64n.cpp
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(202,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(242,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(283,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(313,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(346,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(377,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(386,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(394,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\mk64n.cpp(415,20): warning C4018: <: несоответствие типов со знаком и без знака
-  obj2infConverter.cpp
-C:\Users\Admin\source\repos\BCCTool\BCCTool\obj2inf.h(430,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  Undat.cpp
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(46,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(85,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(130,21): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(147,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(205,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(211,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(214,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(227,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(239,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(256,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(272,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(286,30): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(296,21): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(300,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(329,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(332,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(335,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Undat.cpp(349,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  Window.cpp
-C:\Users\Admin\source\repos\BCCTool\BCCTool\obj2inf.h(430,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(72,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(112,134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(112,89): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(112,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(113,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(113,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(113,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(114,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(114,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(114,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(116,134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(116,89): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(116,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(117,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(117,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(117,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(118,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(118,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(118,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(216,31): warning C4305: инициализация: усечение из "double" в "float"
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(216,36): warning C4305: инициализация: усечение из "double" в "float"
-C:\Users\Admin\source\repos\BCCTool\BCCTool\OpenGL.h(216,41): warning C4305: инициализация: усечение из "double" в "float"
-  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
-  Создание кода...
+﻿  Window.cpp
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\parser.h(100,17): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\parser.h(105,18): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\parser.h(110,18): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\parser.h(115,17): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\obj2inf.h(200,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(72,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(112,134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(112,89): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(112,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(113,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(113,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(113,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(114,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(114,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(114,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(116,134): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(116,89): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(116,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(117,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(117,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(117,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(118,146): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(118,97): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(118,48): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(216,31): warning C4305: инициализация: усечение из "double" в "float"
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(216,36): warning C4305: инициализация: усечение из "double" в "float"
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\OpenGL.h(216,41): warning C4305: инициализация: усечение из "double" в "float"
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,6): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,6): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,11): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,11): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,16): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,16): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,21): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,21): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,26): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,26): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,36): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,36): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,41): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,41): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,46): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,46): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,51): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,51): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,56): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,56): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,66): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,66): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,71): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,71): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,76): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(6,76): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(7,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(8,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(9,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(10,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(11,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(12,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(13,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(14,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(15,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(16,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(17,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(18,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(19,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(20,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,3): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,3): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,58): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,58): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,68): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,68): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,73): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,73): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,78): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(21,78): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(31,22): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(31,22): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,10): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,10): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,25): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,25): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,40): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,40): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(32,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(33,10): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(33,10): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(41,40): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(41,40): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(42,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(42,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(42,19): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(42,19): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(43,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(43,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(43,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(43,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(43,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(43,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(44,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(44,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(53,28): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(53,28): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(53,42): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(53,42): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(54,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(54,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(54,48): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(54,48): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(55,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(55,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(55,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(55,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(55,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(55,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(65,16): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(65,16): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(65,30): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(65,30): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(65,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(65,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(66,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(66,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(66,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(66,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(67,17): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(67,17): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(67,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(67,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(77,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(77,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(77,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(77,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(77,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(77,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(78,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(78,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(78,32): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(78,32): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(79,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(79,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(79,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(79,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(88,40): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(88,40): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(89,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(89,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(89,19): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(89,19): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(90,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(90,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(90,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(90,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(90,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(90,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(91,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(91,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(100,32): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(100,32): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(100,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(100,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,8): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,8): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,49): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(101,49): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,4): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,4): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,18): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,18): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,32): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,32): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,46): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(102,46): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(113,32): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(113,32): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(113,46): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(113,46): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(114,17): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(114,17): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(114,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(114,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,21): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,21): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,29): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,29): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,37): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,37): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(127,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(128,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,13): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,13): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,21): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,21): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,29): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,29): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,37): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,37): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(129,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(130,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,14): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,14): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,22): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,22): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,30): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,30): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,46): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,46): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,54): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,54): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,62): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(133,62): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(134,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,19): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,19): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,27): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,27): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,35): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,35): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,51): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,51): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,59): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(135,59): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,38): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,38): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,46): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,46): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,54): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,54): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,62): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(136,62): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(137,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,37): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,37): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(138,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(139,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(140,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(140,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(140,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(140,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(141,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,25): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,25): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,33): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,33): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,41): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,41): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,49): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,49): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,57): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(142,57): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(143,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(144,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,62): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(145,62): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(146,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(147,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(148,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(149,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,37): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,37): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(151,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(152,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(153,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(153,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(153,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(153,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(154,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,21): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,21): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,29): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,29): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,37): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,37): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(155,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(156,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,19): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,19): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,27): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,27): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,35): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,35): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,51): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,51): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,59): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(157,59): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(158,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(159,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(159,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(159,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(159,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(159,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(159,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(160,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(161,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(162,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(163,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,61): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(164,61): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(165,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,43): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,43): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,51): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,51): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,59): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(166,59): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(167,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(168,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(168,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(168,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(168,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(169,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(169,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(169,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(169,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(170,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,63): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(171,63): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(172,45): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(172,45): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(172,53): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(172,53): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,7): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,7): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,15): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,15): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,23): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,23): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,31): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,31): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,39): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,39): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,47): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,47): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,55): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(173,55): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(220,37): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(220,37): warning C4309: инициализация: усечение константного значения
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(239,11): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\SaveFileSource.h(239,11): warning C4309: инициализация: усечение константного значения
   Converter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  BCCTool.vcxproj -> C:\Users\Admin\source\repos\BCCTool\x64\Debug\BCCTool.exe
-C:\Users\Admin\source\repos\BCCTool\BCCTool\obj\BCCTool.vcxproj.nuget.g.targets(4,5): warning : Пакеты, содержащие целевые объекты и PROPS-файлы MSBuild, не могут быть полностью установлены в проектах, предназначенных для нескольких платформ. Целевые объекты и PROPS-файлы MSBuild были пропущены.
+  BCCTool.vcxproj -> A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\x64\Debug\BCCTool.exe
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\obj\BCCTool.vcxproj.nuget.g.targets(4,5): warning : Пакеты, содержащие целевые объекты и PROPS-файлы MSBuild, не могут быть полностью установлены в проектах, предназначенных для нескольких платформ. Целевые объекты и PROPS-файлы MSBuild были пропущены.

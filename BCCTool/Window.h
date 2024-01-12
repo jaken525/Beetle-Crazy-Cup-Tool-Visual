@@ -55,16 +55,16 @@ namespace BCCTool
 
 		Window(void)
 		{
-			InitializeComponent();
-
 			con.path = currentPath;
 
 			this->KeyDown += gcnew KeyEventHandler(this, &Window::keyBoard);
 			OpenGL = gcnew COpenGL(this, 970, 555);
 
-			if (!fs::exists(*currentPath + "\\beetle.exe"))
+			if (!fs::exists(*currentPath + "\\beetle.exe") || !fs::exists(*currentPath + "\\radical.exe"))
 				MessageBox::Show("Incorrect location of the program. To work correctly, place the program in the folder with the executable file of the original game.", "Warning", MessageBoxButtons::OK, MessageBoxIcon::Warning);
 
+			InitializeComponent();
+			this->Text += msclr::interop::marshal_as<String^>(*currentPath);
 		}
 
 	protected:
@@ -348,7 +348,7 @@ namespace BCCTool
 			   this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
 			   this->MaximizeBox = false;
 			   this->Name = L"Window";
-			   this->Text = L"Beetle Crazy Cup Tool v1.7 " + msclr::interop::marshal_as<String^>(*currentPath);
+			   this->Text = L"Beetle Crazy Cup Tool: Visual Edition ";
 			   this->groupBox1->ResumeLayout(false);
 			   this->groupBox1->PerformLayout();
 			   this->ResumeLayout(false);
@@ -420,7 +420,8 @@ namespace BCCTool
 
 		label6->Text = L"speed: X" + hScrollBar4->Value + L" zoom: " + zoom + L" x: " + rotateX + L" y: " + rotateY;
 
-		block = formHelp->Visible || converter->Visible || archive->Visible || con.block || saver->Visible;
+		this->Visible = !(formHelp->Visible || converter->Visible || archive->Visible || con.block || saver->Visible);
+		/*block = formHelp->Visible || converter->Visible || archive->Visible || con.block || saver->Visible;
 
 		if (block)
 		{
@@ -432,6 +433,7 @@ namespace BCCTool
 			this->groupBox1->Enabled = true;
 			this->hScrollBar4->Enabled = true;
 		}
+		*/
 	}
 
 	private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e)
