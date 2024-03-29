@@ -1,0 +1,2234 @@
+MENUS\Fondo01.bmp
+MENUS\Fondo02.bmp
+MENUS\Fondo03.bmp
+MENUS\Fondo04.bmp
+MENUS\Fondo05.bmp
+MENUS\Fondo06.bmp
+MENUS\Fondo07.bmp
+a
+a
+a
+a
+a
+a
+a
+a
+a
+BESTER SPRUNG!
+Bitte installieren Sie DirectX 7 um zu spielen.
+Es ist nicht genügend freier Speicherplatz auf der Festplatte.
+Verfügbarer Speicherplatz:
+Sie brauchen mindestens 25 MB für das Spiel.
+Bitte starten Sie die Datei "VideoSetup.exe" vor dem Spiel.
+WARTE: HOST BESTIMMT DEN START
+LEERTASTE ZUM STARTEN
+LEERTASTE ZUM WEITERSPIELEN
+Achtung! Falsche Richtung!
+Laden...
+Warte auf andere Spieler
+Namen für Rennen eingeben
+_____________________________
+Käfer Total v1.0  
+~Spielmodus
+~Mehrspieler
+Re~plays
+~Optionen
+Best~zeiten
+~Verlassen
+Sind Sie sicher?
+~Einzelrennen
+~Meisterschaft
+~Bildschirmteilung
+IPX-~Netzwerk
+~Grafik
+Sou~nd
+~Steuerung
+Namen
+~Neu
+Neuer Name eingeben
+~O.K.
+~Abbrechen
+Namen löschen
+Einzelrennen
+Meisterschaftsmodus
+Geteilter Bildschirm
+IPX-Netzwerk
+Runde
+Gesamt
+Replays
+Meistersch.-Replays
+Grafikoptionen
+Soundoptionen
+Steuerung
+~Standard
+Allgemeine ~Qualität
+~Effekte
+~Reflektionen
+Wagen-Qualität
+Wagen-Innenraum
+3~D-Himmel
+Sonneneins~trahlung
+~Bilineares Filter
+Pro
+Semi-Pro
+Amateur
+An
+Aus
+Spieler 1:
+Spieler 2:
+Steuerung
+Einstellen
+Tastatur
+Steuergerät
+GamePad
+Lenkrad
+Steuerung einstellen
+Beschleunigung
+Bremse/Rückwärts
+Nach links
+Nach rechts
+Handbremse
+Hupe
+Nitro booster
+Rückspiegel 
+FX-Lautstärke
+Musik Lautstärke
+CD-Musik testen
+Stereokan. ~tauschen
+~Ansehen
+Lös~chen
+S~pielablauf
+~Teilnehmen
+Runden:
+Ligamodus:
+Schwierigkeit
+1
+2
+3
+Kurz
+Normal
+Experte
+Spie~ler:
+~Gegner:
+Fahrernamen
+4
+5
+6
+7
+8
+Aus
+Nicht aktiv
+Beschreibung:
+Typ:
+Liganame:
+Punkte:
+*
+~Garage
+Autohaus
+Wagen wählen
+~Laden
+S~peichern
+~Verlassen
+Absolvierte Prüfungen
+MONSTER
+CROSS
+SPEED
+BUGGY
+BONUS
+KWP
+JUMP
+Ihre Wagen:
+Wagentyp:
+V~erkaufen
+~Probefahrt
+~Automarkt
+Wert
+Eigenschaften
+~Weiter
+~Zurück
+Monster
+Cross
+Buggy
+Speed
+Bonus
+KWP
+Jump
+0000
+0000
+0000
+0000
+0000
+Absolviert
+Nicht abs.
+~1. Monster
+~2. Cross
+~4. Buggy
+~3. Speed
+~5. Jump
+OIL DRAGON
+BLACK STORM
+TEKO
+LUZ
+YAKO
+XOAK
+FURY
+TECH 22
+BLUE
+BUG-RED
+SPIRAL
+NUSE
+ASHKICKER
+BRUTAL
+-----
+-----
+FIRE DEMON
+BIG JOE
+-----
+-----
+MOUNTAIN
+ALX
+DRW TEAM
+BTL UNLIMITED
+RIBIK
+BLUE DREAM
+FORMS 2
+JOKER
+RS
+CODE TEAM
+-----
+-----
+SURF-BUB
+CONTACT
+BIG JOE
+SHARK
+VAN W1
+VAN W2
+VAN W3
+VAN W4
+TERRACOTTA
+FOUR SYS
+-----
+-----
+LUXI
+DS KITS
+SENK
+SENTRY
+FIREMORF
+EXCESS
+STRIDER
+3N
+IMPACT
+TOTAL SOOK
+-----
+-----
+ATR
+HURRICANE
+GUARDIAN
+UROIK 2
+BIG JOE
+LTEAM
+-----
+-----
+WERT:
+##### no borrar #####
+Weight 1000 Kg
+*
+V
+1
+2
+3
+W
+Monster
+Cross
+Buggy
+Speed
+Jump
+*
+*
+V
+Hoch
+Mittel
+Gering
+Spieler 1                  
+Spieler 2                  
+Spieler 1                  
+~Käfer-Pokal
+Pro
+~Einzelrennen
+~Meisterschaft
+~Käfer-Pokal
+Best~zeit:
+~MONSTER
+~CROSS
+~SPEED
+~BUGGY
+~JUMP
+~Meisterschaft:
+~SPEED
+~CROSS
+~BUGGY
+~SPEED
+~CROSS
+~BUGGY
+SPEED ~2
+~SPEED
+~CROSS
+SPEED ~2
+CR~OSS 2
+~BUGGY
+2
+T
+A
+W
+Meisterschaft ~1
+Meisterschaft ~2
+Meisterschaft ~3
+Käfer-Pokal-Bestzeiten
+Amateur
+Semi-Pro
+Pro
+Experte
+KWP
+  ~Klasse:
+Käfer-Pokal-Modus
+LIGANAME
+RUNDEN
+MITSPIELER
+aaaaaaa
+LIGANAME                 a
+RUNDEN                   a
+MITSPIELER               a
+aaaaaaaaa
+Wert: 8000$
+2
+KURSANZAHL
+RUNDEN
+BESCHREIBUNG
+***
+Mensajes............................................................................................................................................................................................
+Mensajes............................................................................................................................................................................................
+Mensajes............................................................................................................................................................................................
+Mensajes............................................................................................................................................................................................
+Mensajes............................................................................................................................................................................................
+~O.K.
+1
+Abbrechen
+Warten auf Verbindungen...
+Das Netzwerk kann nicht initialisiert
+werden. Wahrscheinlich ist DirectX
+nicht richtig installiert.
+Das IPX-Protokoll kann nicht
+initialisiert werden. Sie müssen
+es erst installieren, um im
+Netzwerk spielen zu können.
+Die Verbindung kann nicht
+initialisiert werden.
+Fehler beim Erstellen des Spieles.
+Fehler beim Erstellen des Spieles.
+Inkompatible Netzwerkversionen.
+Überprüfen Sie bitte die
+Netzwerkversionen.
+Leider können keine weiteren
+Spieler teilnehmen.
+Verbindung abgebrochen.
+***
+Kamera
+2
+Replays:
+ An
+Aus
+*
+V
+2
+T
+A
+W
+SPIELOPTIONEN
+FORTFAHREN
+ERNEUT VERSUCHEN
+VERLASSEN
+REPLAY SPEICHERN
+REPLAY FORTSETZEN
+WEITERSPIELEN
+V
+THE MONSTER
+CROSS & ROLL
+U-ROCK€
+SNAKE ALLEY
+SPEED WOOD
+SHARK BEAT
+THE TAKE OFF
+1 VS 1
+VW-BUS-RENNEN
+AMATEUR MONSTER
+SEMI-PRO MONSTER
+PROFI MONSTER
+MONSTER EXPERTE
+KWP MONSTER
+AMATEUR CROSS
+SEMI-PRO CROSS
+PRO CROSS
+CROSS EXPERTE
+KWP CROSS
+AMATEUR SPEED
+SEMI-PRO SPEED
+PRO SPEED
+SPEED EXPERTE
+KWP SPEED
+AMATEUR BUGGY
+SEMI-PRO BUGGY
+PRO BUGGY
+BUGGY EXPERTE
+KWP BUGGY
+AMATEUR JUMP
+SEMI-PRO JUMP
+PRO JUMP
+JUMP EXPERTE
+KWP JUMP
+MEHRSPIELER
+MEHRSPIELER NETZWERK
+MEHRSPIELER GETEILTER BILDSCHIRM
+T
+A
+W
+*
+V
+Cre~dits
+Wollen Sie diesen Spieler und
+alle seine Spiele wirklich
+löschen?
+Wollen Sie dieses Spiel wirklich
+löschen?
+Wollen Sie dieses Replay wirklich
+löschen?
+*
+I-Force
+Aus
+Leicht
+Normal
+IForce
+*
+~Ja
+~Nein
+~Monster
+~Cross
+~Buggy
+~Speed
+Bonus
+KWP
+~Jump
+Übernehmen
+Zu verkaufen
+Verschlossen
+Nicht verfügbar
+Willkommen!
+Klicken Sie auf einen Pokal,
+um eine Meisterschaft auszuwählen.
+BESTE GESAMTZEIT!
+?
+DEMO
+***
+HILFE
+Kamera hoch: Bild nach oben
+Kamera runter: Bild nach unten
+Heranzoomen: Pos 1
+Camera further : Ende
+Auto-Namen: F4
+Nächstes Auto: Einfg
+Voriges Auto: Entf
+Optionen: Esc
+Punktestand: F2
+Karte: F3
+***
+MULTIPLAYER
+REKORDPRÄMIE:
+BESTER SPRUNG:
+BESTE RUNDE:
+BESTZEIT:
+SIEGER:
+SIE HABEN DAS RENNEN VERLOREN...
+~Intro ansehen
+CREDITS
+GEGEN
+EINE RUNDE
+RUNDE 1/2
+RUNDE 2/2
+RUNDE 1/3
+RUNDE 2/3
+RUNDE 3/3
+OK
+Abbrechen
+Vert: 8000$---------------------------------
+Bitte legen Sie die Käfer Total CD ein.
+Nichts ausgewählt.
+Dieser Name existiert bereits.
+Bitte wählen Sie einen anderen.
+Dieser Name existiert bereits.
+Bitte wählen Sie einen anderen.
+D----------
+Entfernung
+RENNERGEBNISSE€
+MULTIPLAYER
+MULTIPLAYERRENNEN
+MEISTERSCHAFT
+GESAMTERGEBNISSE€
+Bitte geben Sie einen Namen an.
+Die Soundkarte reagiert nicht.
+Kein Ton verfügbar.
+Usado por red......0............................................................................................................................
+Usado por red......1............................................................................................................................
+Usado por red......2............................................................................................................................
+Usado por red......3............................................................................................................................
+Usado por red......4............................................................................................................................
+Usado por red......5............................................................................................................................
+Usado por red......6............................................................................................................................
+Usado por red......7............................................................................................................................
+Usado por red......8............................................................................................................................
+Usado por red......9.(Texto de escritura).......................................................................................................
+-Nombres ----------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+Player1*c1********
+Arnold
+Loky
+Jenny
+Kev
+Vepe
+Dan
+Kikor
+Player1*c2********
+Seb
+Emmanuel
+Charly
+Esther
+George
+Cain
+Incinerator
+Player1*c3********
+Vincent
+Yoko
+Ralph
+Michael
+Karine
+Mery
+Mig
+MINUS
+EQUALS
+BACK
+TAB
+LBRACKET
+RBRACKET
+HUPE
+LSTRG
+SEMICOLON
+APOSTROPHE
+GRAVE
+LSHIFT
+BACKSLASH
+COMMA
+PERIOD
+SLASH
+RSHIFT
+MULTIPLY
+LMENU
+LEERTASTE
+CAPITAL
+NUMLOCK
+SCROLL
+NUMPAD7
+NUMPAD8
+NUMPAD9
+SUBTRACT
+NUMPAD4
+NUMPAD5
+NUMPAD6
+ADD
+NUMPAD1
+NUMPAD2
+NUMPAD3
+NUMPAD0
+DECIMAL
+KANA
+CONVERT
+NOCONVERT
+YEN
+NUMPADEQUALS
+CIRCUMFLEX
+AT
+COLON
+UNDERLINE
+KANJI
+STOP
+AX
+UNLABELED
+NUMPADENTER
+RSTRG
+NUMPADCOMMA
+DIVIDE
+SYSRQ
+RMENU
+BILD AUF
+LINKS
+RECHTS
+BILD AB
+LWIN
+RWIN
+APPS
+BILD AB
+BILD AUF
+RECHTS
+LINKS
+LEERTASTE
+STRG
+BUTTON1
+BUTTON2
+BUTTON3
+BUTTON4
+BUTTON5
+BUTTON6
+BUTTON7
+BUTTON8
+BUTTON9
+BUTTON10
+Bruno
+Patricia
+Anna
+Herbie
+Junior
+Mad Max
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+Die Verbindung mit dem Server ist unterbrochen. Erwartend...
+~Final Challenge
+ist ins Spiel eingestiegen.
+hat das Spiel verlassen.
+Wir haben die Netzwerkverbindung verloren.
+Der Computer steuert die restlichen Wagen.
+hat das Spiel angehalten.
+erlaubt Ihnen, das Spiel fortzusetzen.
+hat die Netzwerkverbindung verloren. Der Computer übernimmt das Auto.
+Sie sind allein, Adios.
+******************
+******************
+Valor: 8000$---------------------------------------------------
+Name wählen:
+Angebote
+~Kaufen
+~Verlassen
+Willkommen!
+Klicken Sie auf eine Flagge,
+um eine Meisterschaft auszuwählen.
+(Frei)
+-Frei-
+~Bandit                 a
+XiuX                     a
+~Incinerator             a
+Barban                   a
+Giusseppe                a
+Calver                   a
+__________________________
+Nombre partida 1         a
+Nombre partida 2         a
+Nombre partida 3         a
+Nombre partida 4         a
+Nombre partida 5         a
+Nombre partida 6         a
+Nombres jugadores red    a
+Nombres jugadores red2   a
+Nombres jugadores red3   a
+Nombres jugadores red4   a
+Nombres jugadores red5   a
+Nombres jugadores red6   a
+Liga 1                   a
+Liga 2                   a
+Liga 3                   a
+Liga 4                   a
+Liga 5                   a
+Liga 6                   a
+LOADSAVE1                a
+LOADSAVE2                a
+LOADSAVE3                a
+LOADSAVE4                a
+LOADSAVE5                a
+LOADSAVE6                a
+__________________________________________________ a
+                         a
+                         a
+Free   o
+00
+000000
+000000
+1000$aaaa 1
+2000$aaaaaa
+3000$aaaaaa
+40000$aaaaa
+------aaaaa
+1001$aaaa 2
+2001$aaaaaa
+3001$aaaaaa
+40001$aaaaa
+------aaaaa
+BUGGYaaaa 3
+2002$aaaaaa
+3002$aaaaaa
+40002$aaaaa
+------aaaaa
+SPEEDaaaa 4
+2003$aaaaaa
+3003$aaaaaa
+40003$aaaaa
+------aaaaa
+1004$aaaa 5
+2004$aaaaaa
+3004$aaaaaa
+40004$aaaaa
+------aaaaa
+1005$aaaa 6
+2005$aaaaaa
+3005$aaaaaa
+40005$aaaaa
+50005$aaaaa
+1006$aaaa 7
+2006$aaaaaa
+3006$aaaaaa
+40006$aaaaa
+50006$aaaaa
+Free   o
+0000000$
+1000000$
+1300000$
+xxxx00xa
+Free   o
+1000000$
+1000000$
+1000000$
+xxxx00xa
+Gra$000a
+2000000$
+2000000$
+2000000$
+xxxxa00a
+Gra$000a
+3000000$
+3000000$
+3000000$
+xxx000xa
+Gr0000aa
+4000000$
+4000000$
+4000000$
+xxx000xa
+Wbc100 a
+wbc002 a
+wbc003 a
+wbc004 a
+wbc005 a
+bon001 a
+bon002 a
+bon003 a
+bon004 a
+bon005 a
+~GETR. /
+AU
+MA
+                                                              a
+                                                              a
+~Ja
+~Nein
+Repeticion1Aa
+Repeticion2Aa
+Repeticion3Aa
+Repeticion4Aa
+Repeticion5Aa
+Repeticion6Aa
+Repeticion1Ca
+Repeticion2Ca
+Repeticion3Ca
+Repeticion4Ca
+Repeticion5Ca
+Repeticion6Ca
+RECORDSA1                a
+RECORDSA2                a
+RECORDSA3                a
+RECORDSA4                a
+RECORDSA5                a
+RECORDSA5                a
+RECORDSC1                a
+RECORDSC2                a
+RECORDSC3                a
+RECORDSC4                a
+RECORDSC5                a
+RECORDSC5                a
+Nombre jugador 1         a
+Nombre jugador 2         a
+Nombre jugador 3         a
+Nombre jugador 4         a
+Nombre jugador 5         a
+Nombre jugador 6         a
+Nombre jugador 7         a
+Nombre jugador 8         a
+Auf-Pfeil                a
+Ab-Pfeil                 a
+Linkspfeil               a     
+Rechtspfeil              a
+Strg                     a
+Enter                    a
+Leertaste                a
+Shift                    a
+A                        a
+Z                        a
+F1                       a
+Automar~kt
+                                                              a
+                                                              a
+NAME                     a
+INFO                     a
+                         a
+                         a
+Spielername              a
+Punkte                   a
+Pokale                   a
+Datum                    a
+Rock it, Baby!
+Liga mit 3 Kursen
+Snake Crossing
+Snake, Cross & Buggy
+Speed-Mix
+Buggy, cross, speed
+Friß Staub
+Für Draufgänger
+Der Gewinner ist…
+Decisive speed
+Unlimited speed
+Antreten auf 4 Kursen
+Skilled skull
+Können gefragt!!
+3 x 2
+That´s 2 x 2 x 2
+Burnout
+5 heiße Strecken
+Mixed races
+Cross, speed, buggy
+Speed Spezial
+Für Speed-Experten
+Dale cagon!
+Von Dale für Sie
+Snake Alley
+Speed pur
+Cross
+Dünen, Dünen, Dünen!
+Shark Beat
+Buggy-Nächte
+Speed Wood
+Be fast!!!
+Crossing
+3,2,1......
+U-ROCK
+Gib mir ein U
+Cross extrem
+CROSSROADS
+Shark Beat II
+Buggy-Rennen
+2 X 2
+Buggy & speed
+Dirt machines
+Super Cross
+Fast races
+Speed & cross
+Draufgänger
+Buggy & speed
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+BESTE RUNDENZEIT
+BESTE GESAMTZEIT
+Käfer-Pokal
+Spielstand laden
+Spielstand speichern
+~Laden
+~Speichern
+Spieler
+Spieldaten
+Punkte
+Monster-Prüfungen
+Cross-Prüfungen
+Speed-Prüfungen
+Buggy-Prüfungen
+Jump-Prüfungen
+Bonus-Prüfungen
+KWP-Prüfungen
+Eine Art Prüfung
+Test
+Preis
+~1. Amateur
+~2. Semi-Pro
+~3. Pro
+~4. Experte
+Frei
+2000$
+4500$
+8200$
+2001$-
+4501$
+8201$
+2002$
+4502$
+8202$
+2003$
+4503$
+8203$
+2004$
+4504$
+8204$
+XXXXXXX
+XXXXXXX
+~1. Zeitrennen
+~2.VW-Bus-rennen
+~3. 1 vs 1 Buggy
+~4. Cross-Prüfung
+Bonus 5
+0000$
+0001$
+0002$
+0003$
+0004$
+BONUSXXX
+BONUSXXX
+BONUSXXX
+BONUSXXX
+BONUSXXX
+BONUSXXX
+BONUSXXX
+BONUSXXX
+BONUSXXX
+BONUSXXX
+333333$
+444444$
+555555$
+666666$
+777777$
+~Spielen
+Spieleliste:
+Rennen wählen:
+Spielerliste:
+Nachricht:
+Replay-Liste
+Spieleliste:
+Bestzeiten-Liste:
+Klasse
+~Beste Runde
+~Gesamt
+Klasse:
+Monster 1
+Cross 1
+U-Rock
+Shark Beat 1
+Monster 2
+Cross 2
+Snake Alley
+Shark Beat 2
+Monster 3
+Cross 3
+Speed Wood
+Shark Beat 3
+Monster 4
+Cross 4
+U-Rock
+Shark Beat 4
+Spielmodus
+Zeit
+Jump 1
+Jump 2
+Jump 3
+Jump 4
+Einzelr.-Bestzeiten
+Meistersch.-Bestzeiten
+Gang hoch
+Gang runter
+KWP
+Snake Alley
+KWP Monster
+KWP Cross
+U-Rock
+KWP Shark Beat
+Jump 5
+--------
+~MONSTER
+~CROSS
+~SPEED
+~BUGGY
+B~ONUS
+K~WP
+~JUMP
+Willkommen.
+Wählen Sie einen Wettbewerb aus,
+indem Sie auf eine Flagge klicken. 
+~OK
+--------
+Congratulations!,
+you are Speed Rookie Champion,
+Access to Semi-Pro granted.
+Congratulations!,
+you are Speed Semi-Pro Champion,
+Access to Professional granted.
+Congratulations!,
+you are 
+Speed Professional Champion,
+Access to Master granted.
+Congratulations!,
+you are SPEED MASTER,
+Get all masters to enter the WBC
+Congratulations!,
+you are Cross Rookie Champion,
+Access to Semi-Pro granted.
+Congratulations!,
+you are Cross Semi-Pro Champion,
+Access to Professional granted.
+Congratulations!,
+you are 
+Cross Professional Champion,
+Access to Master granted.
+Congratulations!,
+you are CROSS MASTER,
+Get all masters to enter the WBC.
+Congratulations!,
+you are Buggy Rookie Champion,
+Access to Semi-Pro granted.
+Congratulations!,
+you are Buggy Semi-Pro Champion,
+Access to Professional granted.
+Congratulations!,
+you are 
+Buggy Professional Champion,
+Access to Master granted.
+Congratulations!,
+you are BUGGY MASTER,
+Get all masters to enter the WBC.
+Congratulations!,
+you are Jump Rookie Champion,
+Access to Semi-Pro granted.
+Congratulations!,
+you are Jump Semi-Pro Champion,
+Access to Professional granted.
+Congratulations!,
+you are 
+Jump Professional Champion,
+Access to Master granted.
+Congratulations!,
+you are JUMP MASTER,
+Get all masters to enter the WBC.
+Congratulations!,
+you are Monster Rookie Champion,
+Access to Semi-Pro granted.
+Congratulations!,
+you are Monster Semi-Pro Champion,
+Access to Professional granted.
+Congratulations!,
+you are 
+Monster Professional Champion,
+Access to Master granted.
+Congratulations!,
+you are MONSTER MASTER,
+Get all masters to enter the WBC.
+Glückwunsch!
+Sie haben einen Bonus-Wettbewerb
+gewonnen!
+Sie können an einer
+Bonus-Prüfung teilnehmen.
+Klicken Sie auf die Flagge.
+Es sind keine Boni verfügbar.
+Nicht genügend Punkte,
+um dieses Auto zu kaufen.
+Das Auto verkaufen,
+sind Sie sicher?
+Gratulation!
+Sie haben ein neues Auto.
+Sie müssen erst Experte
+in allen Klassen sein, um am
+Käfer-Welt-Pokal teilnehmen
+zu können.
+Sie müssen erst einen
+Wettbewerb gewinnen, um
+am nächsten teilnehmen
+zu können.
+Möchten Sie das Spiel verlassen?
+Preis des Autos
+Ruhm-Punkte
+PREIS: 
+******************
+******************
+******************
+* Bitte bleiben Sie bereit, Abfahrt in 4 Sekunden...
+* Spiel geschlossen, Abfahrt in 2 Sekunden...
+******************
+Dieses Auto haben Sie bereits!
+Glückwunsch!,
+Sie sind EXPERTE in allen
+Wettbewerben. Sie haben nun
+Zugang zum KWP.
+Sie können nicht alle
+Ihre Autos verkaufen, Sie müssen
+mindestens eins behalten.
+Das Steuergerät funktioniert nicht.
+Vergewissern Sie sich,
+daß es richtig installiert ist,
+oder wählen Sie die Tastatur.
+Sie müssen CHAMPION in der 1.
+Meisterschaft werden, um an der 2.
+Meisterschaft teilnehmen zu können.
+Sie müssen CHAMPION in der 2.
+Meisterschaft werden, um an der 3.
+Meisterschaft teilnehmen zu können.
+******************
+******************
+******************
+Dieser Bonus ist noch nicht
+verfügbar.
+Ein tolles Rennen,
+Sie haben es fast
+Spiel erfolgreich gespeichert.
+Spiel erfolgreich geladen.
+******************
+******************
+Spielen 
+Internet
+Gegner
+******************
+******************
+******************
+KÄFER
+T1-Motor    2 Vergaser
+1641  cmm  100 PS  780kg
+      
+Die Legende lebt.
+*
+Wert: 1000$
+KÄFER
+T1-Motor    2 Vergaser
+1641cc  100 hp  750kg
+       
+Läuft und läuft und...
+*
+Wert: 2000$
+KÄFER
+T1-Motor    2 Vergaser
+2000cc  170 hp  780kg
+            
+Für Renn-Käfer-Fans
+***
+Wert: 3000$
+KÄFER
+Aluminium-Motorblock
+2900cc  300 hp  780kg
+Wer wagt es, diesen
+wilden Käfer zu fahren?
+*****
+Wert: 8000$
+RODBUSTER
+T1-Motor    2 Vergaser
+1835cc  140 hp  750kg
+Echtes 'Easy Rider'-
+Feeling.
+**
+Wert: 8000$
+RODBUSTER
+T1-Motor    2 Vergaser
+1835cc  140 hp  730kg
+Der Champion in
+seiner Klasse.
+**
+Wert: 8000$
+RODBUSTER
+T4-Motor    2 Vergaser
+2400cc  220 hp  750kg
+Eine Orkan auf
+vier Rädern!
+****
+Wert: 8000$
+RODBUSTER
+Aluminium-Motorblock
+2900cc  300 hp  750kg
+Macht Sie zum König
+der Straße.
+*****
+Wert: 8000$
+MANX
+T1-Motor    2 Vergaser
+1835cc  140 hp  720kg
+Der beste Wagen 
+seiner Klasse.
+**
+Wert: 9000$
+MANX
+T1-Motor    2 Vergaser
+2000cc  170 hp  720kg
+     
+Zum Star geboren.
+***
+Wert: 10000$
+MANX
+T4-Motor    2 Vergaser
+2400cc  220 hp  720kg
+Genau das Richtige
+für die Höllenspirale.
+****
+Wert: 11000$
+MANX
+Aluminium-Motorblock
+2900cc  300 hp  720kg
+Experte aller Klassen:
+Der Mad Manx!
+*****
+Wert: 8000$
+KÄFER
+T1-Motor    2 Vergaser
+2000cc  170 hp  2180kg
+         
+Beetle-Mania!
+***
+Wert: 8000$
+KÄFER
+Aluminium-Motorblock
+2900cc  300 hp  2180kg
+Der souveräne Herrscher
+aller Rennstrecken.
+*****
+Wert: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+KÄFER
+T1 2 Vergaser Nitro-system
+1835 ccm  200 PS  880kg
+       
+Teuflisch gut!
+**
+Wert: 8000$
+KÄFER
+Alu-Motorblock + Nitro
+2900cc  400 hp  880kg
+Schon mal so einen
+Flugkäfer gesehen?
+*****
+Wert: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+KÄFER
+T1-Motor    2 Vergaser
+2000cc  170 hp  740kg
+Champion der
+"Stock Cars" 1998
+***
+Wert: 8000$
+KÄFER
+T1-Motor    2 Vergaser
+2000cc  170 hp  740kg
+An die Spitze
+mit diesem Käfer.
+***
+Wert: 8000$
+KÄFER
+T4-Motor    2 Vergaser
+2400cc  220 hp  740kg
+Unterschätze
+nie einen Käfer!
+****
+Wert: 8000$
+KÄFER
+Aluminium-Motorblock
+2900cc  400 hp  840kg
+Beherrschen Sie
+die Konkurrenz.
+*****
+Wert: 8000$
+SPEEDSTER
+T1-Motor    2 Vergaser
+1835cc  140 hp  690kg
+            
+Ein heißer Schlitten.
+**
+Wert: 8000$
+SPEEDSTER
+T1-Motor    2 Vergaser
+2000cc  170 hp  690kg
+Zähmen Sie den
+Straßen-Drachen.
+***
+Wert: 8000$
+SPEEDSTER
+T4-Motor    2 Vergaser
+2400cc  220 hp  690kg
+Für kompromißlose
+Rennfahrer.
+****
+Wert: 8000$
+SPEEDSTER
+Aluminium-Motorblock
+2900cc  400 hp  690kg
+          
+Auf zur Käferjagd.
+*****
+Wert: 8000$
+KARMANN
+T1 2 Vergaser Nitro-system
+1641cc  100 hp  910kg
+Ein kraftvoller,
+klassischer Karmann.
+*
+Wert: 8000$
+KARMANN
+T4 2 Vergaser Nitro-system
+2400cc  220 hp  910kg
+       
+Fahren Sie Atomic Car
+****
+Wert: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+BUGGY
+T1-Motor    2 Vergaser
+1641cc  100 hp  700kg
+         
+Ein Buggy für Surfer !
+*
+Wert: 8000$
+BUGGY
+T1-Motor    2 Vergaser
+1641cc  100 hp  700kg
+          
+Für Spaß und Sport.
+*
+Wert: 8000$
+BUGGY
+T1-Motor    2 Vergaser
+2000cc  170 hp  700kg
+Big Joe ist
+Fahrspaß pur!
+***
+Wert: 8000$
+BUGGY
+T4-Motor    2 Vergaser
+2400cc  220 hp  700kg
+Nehmt euch in acht
+vor der Strandbestie!
+****
+Wert: 8000$
+VW BUS
+T1-Motor    2 Vergaser
+1835cc  140 hp  1050kg
+Laßt die 60er
+wiederauferstehen!
+**
+Wert: 8000$
+VW BUS
+T1-Motor    2 Vergaser
+1835cc  140 hp  1050kg
+Laßt die 60er
+wiederauferstehen!
+**
+Wert: 8000$
+VW BUS
+T1-Motor    2 Vergaser
+1835cc  140 hp  1050kg
+Laßt die 60er
+wiederauferstehen!
+**
+Wert: 8000$
+VW BUS
+T1-Motor    2 Vergaser
+1835cc  140 hp  1050kg
+Laßt die 60er
+wiederauferstehen!
+**
+Wert: 8000$
+KARMANN
+T1-Motor    2 Vergaser
+1835cc  140 hp  2210kg
+           
+Auf großem Fuß.
+**
+Wert: 8000$
+KARMANN
+Aluminium-Motorblock
+2900cc  400 hp  690kg
+Autos schrotten,
+Belohnung einsacken!
+*****
+Wert: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+TOW'D
+T1-Motor    2 Vergaser
+1835cc  140 hp  710kg
+Meer, Sonne und Ge-
+schwindigkeitsrausch.
+**
+Wert: 8000$
+TOW'D
+T1-Motor    2 Vergaser
+2000cc  170 hp  710kg
+Sie werden Ihre Wahl
+nicht bereuen!
+***
+Wert: 8000$
+TOW'D
+T4-Motor    2 Vergaser
+2400cc  220 hp  710kg
+Werden Sie zum
+Strandkönig.
+****
+Wert: 8000$
+TOW'D
+Aluminium-Motorblock
+2900cc  400 hp  710kg
+Auf jeder Piste
+zu Hause mit Tow'd.
+*****
+Wert: 8000$
+181
+T1-Motor    2 Vergaser
+1641cc  100 hp  820kg
+Besonders für
+Anfänger geeignet.
+*
+Wert: 8000$
+181
+T1-Motor    2 Vergaser
+1641cc  100 hp  820kg
+     
+Rot o. blau, was genau?
+*
+Wert: 8000$
+181
+T1-Motor    2 Vergaser
+1835cc  140 hp  820kg
+Nichts kann dieses
+"Ding" stoppen.
+**
+Wert: 8000$
+181
+T1-Motor    2 Vergaser
+2000cc  170 hp  820kg
+        
+Die Show gehört Ihnen.
+***
+Wert: 8000$
+SPEEDSTER
+T1 2 Vergaser Nitro-system
+2000cc  170 hp  790kg
+          
+Der gewisse Kick.
+***
+Wert: 8000$
+SPEEDSTER
+Alu-Motorblock + Nitro
+2900cc  400 hp  790kg
+            
+Auf zum Mond!!!
+*****
+Wert: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+BAJA
+T1-Motor    2 Vergaser
+1835cc  140 hp  740kg
+Setzen Sie Ihre
+Gegner unter Druck.
+**
+Wert: 8000$
+BAJA
+T1-Motor    2 Vergaser
+1835cc  140 hp  740kg
+         
+Der Baja sei mit Ihnen!
+**
+Wert: 8000$
+BAJA
+T4-Motor    2 Vergaser
+2400cc  220 hp  740kg
+Sie werden alle
+Staub schlucken.
+****
+Wert: 8000$
+BAJA
+Aluminium Motorblock
+2900cc  400 hp  740kg
+Mit dem Speed
+Devil im Nacken.
+*****
+Wert: 8000$
+PICKUP
+T1-Motor    2 Vergaser
+1641cc  100 hp  2450kg
+Nur für Sie:
+Ein originales Pickup!
+*
+Wert: 8000$
+PICKUP
+T4-Motor    2 Vergaser
+2400cc  220 hp  2450kg
+Leitungsstark, aber
+vor allem monströs!
+****
+Wert: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NEW BEETLE CUP
+Motor auf VR6-Basis
+2800cc  204 hp  1200kg
+Der Asphalt brennt mit
+dem New Beetle Cup.
+*****
+Wert: 8000$
+NEW BEETLE CUP
+Motor auf VR6-Basis
+2800cc  204 hp  1200kg
+Der Asphalt brennt mit
+dem New Beetle Cup.
+*****
+Wert: 8000$
+NEW BEETLE CUP
+Motor auf VR6-Basis
+2800cc  204 hp  1200kg
+Der Asphalt brennt mit
+dem New Beetle Cup.
+*****
+Wert: 8000$
+NEW BEETLE CUP
+Motor auf VR6-Basis
+2800cc  204 hp  1200kg
+Der Asphalt brennt mit
+dem New Beetle Cup.
+*****
+Wert: 8000$
+DRAGSTER
+Aluminium-Motorblock
+2900cc  400 hp  840kg
+           
+              
+*****
+Wert: 8000$
+DRAGSTER
+Aluminium-Motorblock
+2900cc  400 hp  840kg
+         
+           
+*****
+Wert: 8000$
+DDDDDDDDDD
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Wert: 8000$
+OIL DRAGON
+BLACK STORM
+TEKO
+LUZ
+YAKO
+XOAK
+FURY
+TECH 22
+BLUE
+BUG-RED
+SPIRAL
+NUSE
+ASHKICKER
+BRUTAL
+-----
+-----
+FIRE DEMON
+BIG JOE
+-----
+-----
+MOUNTAIN
+ALX
+DRW TEAM
+BTL UNLIMITED
+RIBIK
+BLUE DREAM
+FORMS 2
+JOKER
+RS
+CODE TEAM
+-----
+-----
+SURF-BUB
+CONTACT
+BIG JOE
+SHARK
+VAN W1
+VAN W2
+VAN W3
+VAN W4
+TERRACOTTA
+FOUR SYS
+-----
+-----
+LUXI
+DS KITS
+SENK
+SENTRY
+FIREMORF
+EXCESS
+STRIDER
+3N
+IMPACT
+TOTAL SOOK
+-----
+-----
+ATR
+HURRICANE
+GUARDIAN
+UROIK 2
+BIG JOE
+LTEAM
+-----
+-----
+NEW BEETLE
+NEW BEETLE
+NEW BEETLE
+NEW BEETLE
+RIGBER
+RIGBER
+RIGBER
+RIGBER
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Gut gemacht, Champion!
+Toll! Sie haben es fast geschafft!
+Nicht genug, noch einmal!
+a
+Netter Sprung, Champ!
+Nicht genug, noch einmal!
+Super, Sie sind Champ!
+Sie sind am Zeitlimit gescheitert.
+Achtung, falsche Richtung!
+2 RUNDEN NOCH
+LETZTE RUNDE
+BESTE RUNDENZEIT!
+Eingeschlafen?
+Haben sie noch sprit Übrig?
+1. Position
+2. Position
+3. Position
+4. Position
+5. Position
+6. Position
+7. Position
+8. Position
+Versuchen Sie, besser zu
+werden. Noch ein Versuch!
+U-ROCK€
+SNAKE ALLEY€
+SPEED WOOD€
+EINZELRENNEN SPEED
+AMATEUR SPEED
+SEMI-PRO SPEED
+PRO SPEED
+SPEED EXPERTE
+KWP SPEED
+MEISTERSCHAFT SPEED 
+ZEITRENNEN
+THE TAKE OFF€
+EINZELRENNEN JUMP
+AMATEUR JUMP
+SEMI-PRO JUMP
+PRO JUMP
+JUMP EXPERTE
+KWP JUMP
+THE MONSTER€
+EINZELRENNEN MONSTER
+AMATEUR MONSTER
+SEMI-PRO MONSTER
+PRO MONSTER
+MONSTER EXPERTE
+KWP MONSTER
+1 VS. 1 BONUS
+CROSS-PRÜFUNG BONUS
+CROSS & ROLL€
+EINZELRENNEN CROSS
+AMATEUR CROSS
+SEMI-PRO CROSS
+PRO CROSS
+CROSS EXPERTE
+KWP CROSS
+MEISTERSCHAFT CROSS
+SHARK BEAT€
+EINZELRENNEN BUGGY
+AMATEUR BUGGY
+SEMI-PRO BUGGY
+PRO BUGGY
+BUGGY EXPERTE
+KWP BUGGY
+MEISTERSCHAFT BUGGY
+VW-BUS-RENNEN BONUS
+GEWINNEN SIE DAS RENNEN NACH:
+3 RUNDEN
+2 RUNDEN
+1 RUNDE
+SCHAFFEN SIE 2 RUNDEN IN:
+SIE MÜSSEN SPRINGEN
+Wollen Sie den Wettbewerb
+verlassen?
+BUGGY BEAT€
+1
+FINAL CHALLENGE
+Willkommen...
+Bereit für einen Mondspaziergang?
+Verrückte Physik
+RIC fun
+Ewiger Ruhm.
+Kaufen Sie sich alles,
+was Sie sich wünschen.
+MEHRSPIELER€
+1
+1
+1
+Willkommen zum Käfer-Pokal.
+Klicken Sie auf eine Flagge, um an
+einem Wettbewerb teilzunehmen.
+Bei Erfolg gelangen Sie zum
+nächsten Level. Viel Glück!
+Wunderbar! Sie haben den Bonus.
+Wenn Sie einen neuen Rekord
+aufstellen, erhalten Sie mehr Punkte.
+PREIS *10000*
+Wunderbar! Sie haben den Bonus.
+Wenn Sie einen neuen Rekord
+aufstellen, erhalten Sie mehr Punkte.
+PREIS *10000*
+Wunderbar! Sie haben den Bonus.
+Wenn Sie einen neuen Rekord
+aufstellen, erhalten Sie mehr Punkte.
+PREIS *10000*
+Wunderbar! Sie haben den Bonus.
+Wenn Sie einen neuen Rekord
+aufstellen, erhalten Sie mehr Punkte.
+PREIS *10000*
+C
+Network spawn version detected.
+Can't continue ahead.
+C
+Wunderbar! Sie haben den Bonus.
+Wenn Sie einen neuen Rekord
+aufstellen, erhalten Sie mehr Punkte.
+PREIS *10000*
+O.K.,
+ein Wettbewerb wäre geschafft.
+PREIS: *50000*
+Fein,
+damit haben Sie zwei
+Prüfungen geschafft.
+PREIS: *50000*
+Großartig!
+Nur noch zwei weitere Wettbewerbe.
+PREIS: *50000*
+Champion,
+nur noch ein Schritt trennt
+Sie vom Ruhm!.
+PREIS: *50000*
+Gratuliere! Sie haben den KWP
+abgeschlossen. Sie sind der Beste.
+Zeigen Sie Ihr Können im Super New
+Beetle Challenge. Dies ist die letzte
+große Herausforderung!
+Willkommen! Klicken Sie auf Pokale,
+um an einer Meisterschaft
+teilzunehmen. Der Fahrer, der zum
+Schluß die meisten Punkte hat,
+gewinnt den Pokal.
+Sehr schön, Sie haben die 1.
+Meisterschaft gewonnen.
+Jetzt können Sie an der 2.
+Meisterschaft teilnehmen.
+Viel Glück!
+Gut gemacht! Sie haben die 2.
+Meisterschaft gewonnen.
+Jetzt können Sie an der 3.
+Meisterschaft teilnehmen.
+Glückwunsch!
+Gelingt Ihnen das auch im KWP?
+Sie brauchen noch etwas Übung.
+Versuchen Sie es wieder
+Ein Kinderspiel, nicht wahr?
+Versuchen Sie eine andere Klasse.
+LOS!
+POS
+RUNDE
+ZEIT
+GEGNER
+BESTZEITEN
+DISTANZ
+STRAFPUNKTE
+Dieser Name existiert bereits.
+Wählen Sie einen anderen. 
+O.K.! Sie sind nun
+der Speed-Amateur-Champion
+und erhalten Zugang zum
+Semi-Pro-Level. Weiter so!
+PREIS: *500*
+Gut gemacht,
+Speed-Semi-Pro-Champion!
+Zugang zum Pro-Level gewährt.
+Jetzt geht's erst richtig los!
+PREIS: *5000*
+Klasse! Sie sind Speed-Pro-Meister.
+Weiter geht's auf dem Experten-Level.
+Sie werden alles geben müssen.
+PREIS: *15000*
+Gratulation, Speed-Experte!
+Keine Frage, Sie sind gut... In diesem
+Wettbewerb! Beenden Sie den Rest
+der Prüfungen, um am KWP
+teilnehmen zu können. PREIS: *30000*
+O.K.! Sie sind nun der
+Monster-Amateur-Champion und
+erhalten Zugang zum Semi-Pro-Level.
+Weiter so!
+PREIS: *500*
+Gut gemacht,
+Monster-Semi-Pro-Champion!
+Zugang zum Pro-Level gewährt.
+Jetzt geht's erst richtig los!
+PREIS: *5000*
+Klasse! Sie sind Monster-Pro-Meister.
+Weiter geht's auf dem Experten-Level.
+Sie werden alles geben müssen.
+PREIS: *15000*
+Gratulation, Monster-Experte!
+Keine Frage, Sie sind gut... In diesem
+Wettbewerb! Beenden Sie den Rest
+der Prüfungen, um am KWP
+teilnehmen zu können. PREIS: *30000*
+O.K.! Sie sind nun der
+Jump-Amateur-Champion und
+erhalten Zugang zum Semi-Pro-Level.
+Weiter so!
+PREIS: *500*
+Gut gemacht,
+Jump-Semi-Pro-Champion!
+Zugang zum Pro-Level gewährt.
+Jetzt geht's erst richtig los!
+PREIS: *5000*
+Klasse!
+Sie sind Jump-Pro-Meister.
+Weiter geht's auf dem Experten-Level.
+Sie werden alles geben müssen.
+PREIS: *15000*
+Gratulation, Jump-Experte!
+Keine Frage, Sie sind gut... In diesem
+Wettbewerb! Beenden Sie den Rest
+der Prüfungen, um am KWP
+teilnehmen zu können. PREIS: *30000*
+O.K.! Sie sind nun der
+Cross-Amateur-Champion und
+erhalten Zugang zum Semi-Pro-Level.
+Weiter so!
+PREIS: *500*
+Gut gemacht,
+Cross-Semi-Pro-Champion!
+Zugang zum Pro-Level gewährt.
+Jetzt geht's erst richtig los!
+PREIS: *5000*
+Klasse!
+Sie sind Cross-Pro-Meister.
+Weiter geht's auf dem Experten-Level.
+Sie werden alles geben müssen.
+PREIS: *15000*
+Gratulation, Cross-Experte!
+Keine Frage, Sie sind gut... In diesem
+Wettbewerb! Beenden Sie den Rest
+der Prüfungen, um am KWP
+teilnehmen zu können. PREIS: *30000*
+O.K.! Sie sind nun der
+Buggy-Amateur-Champion und
+erhalten Zugang zum Semi-Pro-Level.
+Weiter so!
+PREIS: *500*
+Gut gemacht,
+Buggy-Semi-Pro-Champion!
+Zugang zum Pro-Level gewährt.
+Jetzt geht's erst richtig los!
+PREIS: *5000*
+Klasse!
+Sie sind Buggy-Pro-Champion.
+Weiter geht's auf dem Experten-Level.
+Sie werden alles geben müssen.
+PREIS: *15000*
+Gratulation, Buggy-Experte!
+Keine Frage, Sie sind gut... In diesem
+Wettbewerb! Beenden Sie den Rest
+der Prüfungen, um am KWP
+teilnehmen zu können. PREIS: *30000*
+50 Punkte
+30 Punkte
+20 Punkte
+15 Punkte
+10 Punkte
+8 Punkte
+5 Punkte
+0 Punkte
+Spitze! Bonus-Test bestanden! 
+Bonus-Test nicht bestanden
+Spitze! Exzellent gemacht! 
+Gut gemacht, Champion!
+Ja, Du hast es geschafft!
+Unglaublich, Du hast bestanden!
+Ja, Du hast bestanden, Champion
+OK, Du hast bestanden!
+Wow! Was für ein Sprung!
+Hübscher Sprung, Champion!
+Ohja, Du hast es geschafft!
+Sie müssen einen Spielstand zum laden
+auswählen.
+Disqualifiziert!
+BONUS
+Exzellent! Bonus-Test bestanden
+OK, Bonus-Test bestanden
+Gewonnen! Sie sind der beste!
+Sie haben das rennen verloren...
+MONSTER
+JUMP
+Mit etwas Übung schaffen Sie's bestimmt. Versuchen Sie's nochmal! 
+DEMO MESSAGE DEMO MESSAGE DEMO MESSAGE DEMO
+    
+Bruno Bonnell präsentiert eine Infogrames-Produktion,
+die von Xpiral entwickelt wurde:
+Käfer Total
+ 
+Für XPIRAL:
+Konzeption, Design, 3D-Animation, Programmierung und Grafik:
+ 
+Daniel Mauro García
+David González Pérez
+Enrique García Martín
+Enrique Morera Corcuera
+Jesús Borque
+J. M. Fernández Oli
+Miguel A. Tartaj Casanova
+ 
+Besonderen Dank an:
+ 
+Eric Mottet, Jason Della Rocca, Qsound team,
+Omar Yehia, Andrea D’Orta, Dara Gray,
+Javier Sanchez, Carlos Tartaj, Miryam, Esther,
+Toño y Laura, Chelín, Carlos y Reyes, Maya, Isa, Loky,
+Kevin Cook, James Hawkins, Carlos Lagarto, Ignacio Maluenda,
+Jorge Fuertes, Pierre Carde, Christophe Laboureau, Karine Lextrait.
+ 
+Für INFOGRAMES:
+ 
+Stellv. Vorsitzender Label Sport:
+Mickaël Sportouch
+ 
+Leiter Motorsports:
+Arthur Houtman
+ 
+Produzent:
+Eric Guérin
+ 
+Co-Produzenten:
+Gérald Bonnet, Benoit Arribart
+ 
+Senior-Produktleiter:
+Franck Giroudon
+ 
+Produktleiter:
+Lucile Bousquet
+ 
+Handbuch:
+Lucile Bousquet, Eric Guérin
+ 
+Technischer Leiter:
+Emmanuelle Périgault-Vigier
+ 
+Qualitätssicherung:
+Olivier Robin
+ 
+Qualitätsabteilung:
+Dominique Morel
+ 
+Debugging-Supervisor: 
+Vincent Laloy
+ 
+Test-Koordinatoren:
+Emmanuel Desmaris, Carine Mawart, Emeric Polin,
+Merche Sánchez García, Sébastien Soulier, Emmanuel Thevenet
+ 
+Tester:
+Nicolas Bonnier, Lionel Billault,
+Lény Joubert, Stéphanie Michel,
+Elizabeth Tramier, Fabienne Coustes,
+Karine Balichard, Rodric Rambosson,
+Maxence Peillon, Erwan Bouvet, Antoine Simon,
+Francisco Cavielles, Marc Laurent, Helen Ross,
+Begoña Benítez Verdejo, Marie Chartron,
+Solweg Payet-Descombes, Jane Bonner,
+Gérard Bareille, Anthony Côme,
+Nicolas Dubouloz, David Erchoff-Costet,
+Alex Flacher, Michaël Genay, Olivier Jamin,
+Jean-Yves Lapasset, Guillaume Lestrat,
+Bastien Maizière, Olivier Meynard,
+Sabrina Michaud, Bettina Moyrer,
+Sébastien Pauze, Stéphane Randanne,
+Stéphane Rizzo, Arnaud Roccon,
+Karel Tarallo, Laurent Fara.
+ 
+Besonderen Dank an:
+Départements Assurance-Qualité
+INFOGRAMES North America, 
+INFOGRAMES UK Gary Edwards,
+Opérations Spéciales INFOGRAMES UK
+ 
+Lizenzabteilung:
+Dorothée Horps, Laurence Dufour
+ 
+Rechtsfragen:
+Etienne Piquet-Gauthier
+ 
+Übersetzung:
+Béatrice Rodriguez, Beate Reiter, Monika Steinhauer,
+Karin Haensel, Thomas Holle.
+ 
+PR-Koordination:
+Catherine Louvier, Marie Emilie Requien, Stefan Weyl
+ 
+Design Studio:
+Emmanuelle Tahmazian, Alex Mairey,
+Sophie Wibaux, Olivier Lachard
+ 
+Musik: 
+Kapagama
+Laurent Lombard
+ 
+Soundeffekte:
+Sylvain Chapuis, INNERWAVES
+ 
+Filmszenen:
+Now Futur
+ 
+Intro Artwork:
+Game One
+Danielle Abensour
+Olivier Labenne
+ 
+Besonderen Dank an:
+VOLKSWAGEN AG
+Jacky Morel et Fabien Sabatès
+Bruce Meyer
+SUPER VW MAGAZINE
+Fabrice Lefebvre, CAR CONCEPT
+ 
+Berater in Automobilfragen:
+Jacky Morel, Serge Le Flohic, Julien-David Collombet,
+Jérémie Verdier, SUPER VW MAGAZINE 
+Fabrice Lefebvre, CAR CONCEPT
+ 
+ 
+Die Darstellung der Marken und Modelle sowie die Nutzung
+der Vervielfältigungsrechte, die bei der VOLKSWAGEN AG liegen,
+erfolgen mit Genehmigung. 
+ 
+ 
+ 
+© Infogrames Multimedia 2000
+Xpiral ist ein eingetragenes Warenzeichen von Efecto Caos S.L.
+ 

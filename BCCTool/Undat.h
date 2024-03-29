@@ -1,12 +1,4 @@
-#include <stdio.h>
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <string>
-#include <cstring>
-#include <iomanip>
 #include <windows.h>
-#include <shlwapi.h>
 #include <vector>
 #include <filesystem>
 #include <TlHelp32.h>
@@ -43,8 +35,6 @@ public:
 	}
 
 public:
-	bool OpenFile(char*& f, size_t& fsize, std::string filename);
-
 	void SetPath(std::string path);
 	void Extract(std::string name);
 	void PackBack(std::string name);
@@ -95,14 +85,6 @@ public:
 		if (fileFolderIDTemp = NULL) delete[] fileFolderIDTemp;
 	}
 
-	std::string ReadStringWithout(char*& f, size_t& pos, int size);
-	std::string ReadString(char*& f, size_t& pos, int size);
-	std::string WriteString(int size, std::string& str);
-	std::string WriteLong(int num);
-
-	unsigned long readlong(char*& f, size_t& pos);
-
-	bool OpenFile(char*& f, size_t& fsize, std::string filename);
 	bool ReadAndWriteFolders(char*& f, size_t& pos, size_t& fsize, std::string& n);
 
 	void WriteFiles(char*& f, size_t& pos, size_t& fsize);

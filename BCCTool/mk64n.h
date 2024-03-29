@@ -39,6 +39,7 @@ public:
 	{
 		delete[] vertices;
 		delete[] verTri;
+
 		delete path;
 	}
 
@@ -46,7 +47,6 @@ public:
 	{
 		num_triangles = 0;
 		num_vertices = 0;
-
 		vertices = NULL;
 		verTri = NULL;
 	}

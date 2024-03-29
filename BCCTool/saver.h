@@ -124,15 +124,6 @@ namespace se
 
 		PlayerCars cars[sizeOfModes];
 
-		Profile() 
-		{
-
-		}
-
-		~Profile()
-		{
-
-		}
 	};
 
 	public ref class Saver

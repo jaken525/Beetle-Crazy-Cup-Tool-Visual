@@ -1,0 +1,2179 @@
+menus\Fondo01.bmp
+menus\Fondo02.bmp
+menus\Fondo03.bmp
+menus\Fondo04.bmp
+menus\Fondo05.bmp
+menus\Fondo06.bmp
+menus\Fondo07.bmp
+a
+a
+a
+a
+a
+a
+a
+a
+a
+¡MEJOR SALTO!
+Debes instalar DirectX 7 para jugar.
+No hay suficiente espacio libre en el HD.
+Espacio actual disponible:
+Necesitas al menos 25Mb libres para poder jugar.
+Debes ejecutar VideoSetup.exe antes de jugar.
+ESPERANDO: EL MASTER DA LA SALIDA
+PULSA ESPACIO PARA EMPEZAR
+PULSA ESPACIO PARA CONTINUAR
+¡Cuidado! ¡Camino incorrecto!
+Cargando...
+Esperando a otros jugadores...
+Nombre de la repetición:
+_____________________________
+Beetle Crazy Cup v1.0  
+~Nuevo Juego
+~Multijugador
+Re~peticiones
+~Opciones
+~Récords
+Sa~lir
+¿Estás seguro?
+Carrera Rápi~da
+~Campeonato
+~Pantalla partida
+~Multijugador Ipx
+~Visuales
+~Sonido
+~Control
+Nombre
+~Nuevo
+Inserta Nuevo Nombre
+~Ok
+~Cancelar
+Borrar Nombre
+Carrera Rápida
+Modo Campeonato
+Juego en pantalla partida
+Juego en red Ipx
+Vuelta
+Global
+Repeticiones
+Repeticiones de Campeonato
+Opciones Visuales
+Opciones Sonido
+Opciones de Control
+~Por Defecto
+Calidad ~General
+~Efectos
+~Reflejos
+Calidad del coche
+Interior del coche
+Cielo ~3D
+~Destellos
+~Filtro Bilinear
+Profesional
+Semi-Pro
+Novato
+Activado
+Desactivado
+Selecciona control:
+Jugador 2 :
+Control
+Modificar
+Teclado
+Dispositivo de juego
+GamePad
+Volante
+Modificar Control
+Acelerar
+Freno/Marcha atrás
+Girar Izquierda
+Girar Derecha
+Freno de mano
+Bocina
+Nitro de Salto
+Mirar atrás
+Volumen Fx
+Volumen Música
+Probar Música Cd
+~Invertir Stereo 
+~Reproducir
+~Borrar
+Crear ~Juego
+~Unirse
+Rondas:
+Modo de liga:
+Dificultad:
+1
+2
+3
+Rápida
+Normal
+Maestro
+J~ugadores:
+~Oponentes:
+Nombre de pilotos
+4
+5
+6
+7
+8
+6ff
+Ausentes
+Descripción:
+Tipo:
+Nombre de la liga:
+Puntos:
+*
+~Garage
+Mercado
+Selección de coche
+C~argar
+~Grabar
+Sa~lir
+Pruebas superadas
+MONSTER
+CROSS
+VELOCIDAD
+BUGGY
+BONUS
+WBC
+SALTO
+Tus Coches:
+Tipo de Coche:
+Ve~nder
+T------
+Merca~do
+Valor
+CARACTERÍSTICAS
+S~iguiente
+~Anterior
+Monster
+Cross
+Buggy
+Velocidad
+Bonus
+WBC
+Salto
+0000
+0000
+0000
+0000
+0000
+Pasado
+No Pasado
+~1. Monster
+~2. Cross
+~4. Buggy
+~3. Velocidad
+~5. Salto
+OIL DRAGON
+BLACK STORM
+TEKO
+LUZ
+YAKO
+XOAK
+FURY
+TECH 22
+BLUE
+BUG-RED
+SPIRAL
+NUSE
+ASHKICKER
+BRUTAL
+-----
+-----
+FIRE DEMON
+BIG JOE
+-----
+-----
+MOUNTAIN
+ALX
+DRW TEAM
+BTL UNLIMITED
+RIBIK
+BLUE DREAM
+FORMS 2
+JOKER
+RS
+CODE TEAM
+-----
+-----
+SURF-BUB
+CONTACT
+BIG JOE
+SHARK
+VAN W1
+VAN W2
+VAN W3
+VAN W4
+TERRACOTTA
+FOUR SYS
+-----
+-----
+LUXI
+DS KITS
+SENK
+SENTRY
+FIREMORF
+EXCESS
+STRIDER
+3N
+IMPACT
+TOTAL SOOK
+-----
+-----
+ATR
+HURRICANE
+GUARDIAN
+UROIK 2
+BIG JOE
+LTEAM
+-----
+-----
+Valor:
+##### no borrar #####
+Weight 1000 Kg
+*
+V
+1
+2
+3
+W
+Monster
+Cross
+Buggy
+Velocidad
+Salto
+*
+*
+V
+Alta
+Media
+Baja
+Jugador 1
+Jugador 2
+Jugador 1
+Desafío ~Beetle
+Pro
+Carrera Rápi~da
+~Campeonato
+Desafío ~Beetle
+~Récord:
+~MONSTER
+~CROSS
+~VELOCIDAD
+~BUGGY
+~SALTO
+Campeo~nato:
+~VELOCIDAD
+~CROSS
+~BUGGY
+~VELOCIDAD
+~CROSS
+~BUGGY
+VELOCIDAD ~2
+~VELOCIDAD
+~CROSS
+VELOCIDAD ~2
+CR~OSS 2
+~BUGGY
+2
+T
+A
+W
+Campeonato ~1
+Campeonato ~2
+Campeonato ~3
+Récords de D.Beetle
+Novato
+Semi-Pro
+Pro
+Maestro
+WBC
+Cate~goría:
+Modo Desafío Beetle
+NOMBRE DE LA LIGA
+RONDAS
+JUGADORES CONECTADOS
+aaaaaaa
+NOMBRE DE LA LIGA        a
+RONDAS                   a
+JUGADORES CONECTADOS     a
+aaaaaaaaa
+Value: 8000$
+2
+NÚMERO DE CIRCUITOS
+RONDAS
+DESCRIPCIÓN
+***
+..........LIBRE.....................................................................................................................................................................................
+..........LIBRE.....................................................................................................................................................................................
+..........LIBRE.....................................................................................................................................................................................
+..........LIBRE.....................................................................................................................................................................................
+..........LIBRE.....................................................................................................................................................................................
+~Ok
+1
+Cancelar
+   Esperando conexiones...
+No es posible iniciar la red.
+Posiblemente DirectX 
+no esté instalado correctamente.
+No es posible iniciar la red.
+Debes instalar Ipx para poder 
+jugar en red.
+No es posible iniciar 
+la conexión.
+Error creando el juego.
+Error creando el jugador.
+Versiones de red no compatibles.
+Por favor, actualiza la versión.
+Lo siento,
+no hay espacio para más jugadores.
+Conexión perdida.
+***
+Cambio de cámara
+2
+Repeticiones:
+ On
+Off
+*
+V
+2
+T
+A
+W
+OPCIONES DE JUEGO
+CONTINUAR
+REINTENTAR
+SALIR AL MENÚ
+GRABAR REPETICIÓN
+CONTINUAR REPETICIÓN
+JUGAR
+V
+MONSTER
+CROSS & ROLL
+U-ROCK
+SNAKE ALLEY
+SPEED WOOD
+SHARK BEAT
+THE TAKE OFF
+1 VS 1
+CARRERA FURGONETAS
+MONSTER NOVATO
+MONSTER SEMI-PRO
+MONSTER PROFESIONAL
+MONSTER MAESTRO 
+MONSTER WBC
+CROSS NOVATO
+CROSS SEMI-PRO
+CROSS PROFESIONAL
+CROSS MAESTRO
+CROSS WBC
+VELOCIDAD NOVATO
+VELOCIDAD SEMI-PRO
+VELOCIDAD PROFESIONAL
+VELOCIDAD MAESTRO
+VELOCIDAD WBC
+BUGGY NOVATO
+BUGGY SEMI-PRO
+BUGGY PROFESIONAL
+BUGGY MAESTRO
+BUGGY WBC
+SALTO NOVATO
+SALTO SEMI-PRO
+SALTO SEMI-PRO
+SALTO MAESTRO
+SALTO WBC
+MULTIJUGADOR
+MULTIJUGADOR EN RED
+MULTIJUGADOR PANTALLA PARTIDA
+T
+A
+W
+*
+V
+Crédi~tos
+¿Seguro que deseas eliminar
+ese jugador?, todas sus partidas
+serán eliminadas.
+¿Realmente quieres eliminar
+esa partida?.
+¿Realmente quieres eliminar
+esa repetición?
+***
+I-Force
+Off
+Suave
+Normal
+IForce
+*
+~Sí
+~No
+~Monster
+~Cross
+~Buggy
+~Velocidad
+Bonus
+WBC
+~Salto
+Adquirido
+En venta
+No en venta
+No Disponible
+Bienvenido,
+haz click en una copa
+para elegir un campeonato.
+¡MEJOR TIEMPO GLOBAL!
+?
+DEMO
+***
+AYUDA
+Subir cámara: INICIO
+Bajar cámara: FIN
+Acercar cámara: INICIO
+Alejar cámara: FIN
+Nombres de los coches: FIN
+Siguiente coche: INSERT
+Coche Anterior: DELETE
+Opciones: ESC
+Marcadores: F2
+Mapa: F3
+427
+MULTIJUGADOR
+PREMIO DEL RÉCORD:
+MEJOR SALTO:
+MEJOR VUELTA:
+MEJOR TIEMPO:
+GANADOR
+HAS PERDIDO LA CARRERA...
+Ver ~Intro
+CRÉDITOS
+VS
+UNA RONDA
+RONDA 1/2
+RONDA 2/2
+RONDA 1/3
+RONDA 2/3
+RONDA 3/3
+OK
+Cancelar
+Value: 8000$--------------------------------
+El Cd de Beetle Crazy Cup debe ser insertado para poder jugar.
+No hay ningún nombre seleccionado.
+Ese nombre ya existe.
+Elige otro.
+Ese nombre ya existe.
+Elige otro.
+***
+Distancia
+RESULTADOS DE CARRERA€
+MULTIJUGADOR
+MODO MULTIJUGADOR
+CAMPEONATO
+RESULTADOS GLOBALES€
+Debes insertar un nombre.
+La tarjeta de sonido no responde.
+Sonido no disponible.
+Usado por red......0............................................................................................................................
+Usado por red......1............................................................................................................................
+Usado por red......2............................................................................................................................
+Usado por red......3............................................................................................................................
+Usado por red......4............................................................................................................................
+Usado por red......5............................................................................................................................
+Usado por red......6............................................................................................................................
+Usado por red......7............................................................................................................................
+Usado por red......8............................................................................................................................
+Usado por red......9.(Texto de escritura).......................................................................................................
+-Nombres ----------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+Jugador1**********
+Arnold
+Loky
+Kev
+Vepe
+Jenny
+Dan
+Kikor
+Player1*c2********
+Seb
+Emmanuel
+Charly
+Esther
+George
+Cain
+Incinerator
+Player1*c3********
+Vincent
+Yoko
+Ralph
+Michael
+Karine
+Mery
+Mig
+'
+¡
+BORRAR
+TAB
+`
++
+INTRO
+CONTROL IZQD
+Ñ
+´
+º
+SHIFT IZQD
+Ç
+,
+.
+-
+SHIFT DCHA
+*
+ALT IZQD
+ESPACIO
+BLOQ MAYÚS
+BLOQ NUM
+BLOQ DESP
+TEC NUM 7
+TEC NUM 8
+TEC NUM 9
+-
+TEC NUM 4
+TEC NUM 5
+TEC NUM 6
++
+TEC NUM 1
+TEC NUM 2
+TEC NUM 3
+TEC NUM 0
+TEC NUM .
+KANA
+CONVERT
+NOCONVERT
+YEN
+NUMPADEQUALS
+CIRCUMFLEX
+AT
+COLON
+UNDERLINE
+KANJI
+STOP
+AX
+UNLABELED
+TEC NUM INTRO
+CONTROL DCHA
+NUMPADCOMMA
+TEC NUM /
+IMPR PANT
+ALT DCHA
+CURSOR ARRIBA
+CURSOR IZQD
+CURSOR DCHA
+CURSOR ABAJO
+LWIN
+RWIN
+APPS
+DOWN
+UP
+RIGHT
+LEFT
+SPACE
+CONTROL
+BUTTON1
+BUTTON2
+BUTTON3
+BUTTON4
+BUTTON5
+BUTTON6
+BUTTON7
+BUTTON8
+BUTTON9
+BUTTON10
+Bruno
+Patricia
+Anna
+Herbie
+Junior
+Mad Max
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+******************
+La conexión con el anfitrión se ha perdido. Esperando...
+Desafío ~Final
+se ha unido a la partida.
+ha abandonado la partida.
+Conexión de red perdida.
+El ordenador toma control del resto de los coches.
+ha parado la partida.
+reanuda la partida.
+ha perdido la conexión de red, el ordenador toma control del coche.
+te has quedado solo, ¡adiós!
+******************
+******************
+Valor: 8000$---------------------------------------------------
+Selecciona Nombre:
+Coches en venta
+Com~prar
+Sa~lir
+Bienvenido.
+Pulsa sobre las banderas
+para escoger un Campeonato.
+(Libre)
+-libre-
+-----------              a
+-----------              a
+-----------              a
+-----------              a
+-----------              a
+-----------              a
+__________________________
+Nombre partida 1         a
+Nombre partida 2         a
+Nombre partida 3         a
+Nombre partida 4         a
+Nombre partida 5         a
+Nombre partida 6         a
+Nombres jugadores red    a
+Nombres jugadores red2   a
+Nombres jugadores red3   a
+Nombres jugadores red4   a
+Nombres jugadores red5   a
+Nombres jugadores red6   a
+Liga 1                   a
+Liga 2                   a
+Liga 3                   a
+Liga 4                   a
+Liga 5                   a
+Liga 6                   a
+LOADSAVE1                a
+LOADSAVE2                a
+LOADSAVE3                a
+LOADSAVE4                a
+LOADSAVE5                a
+LOADSAVE6                a
+__________________________________________________ a
+                         a
+                         a
+Libre  o
+00
+000000
+000000
+1000$aaaa 1
+2000$aaaaaa
+3000$aaaaaa
+40000$aaaaa
+------aaaaa
+1001$aaaa 2
+2001$aaaaaa
+3001$aaaaaa
+40001$aaaaa
+------aaaaa
+BUGGYaaaa 3
+2002$aaaaaa
+3002$aaaaaa
+40002$aaaaa
+------aaaaa
+SPEEDaaaa 4
+2003$aaaaaa
+3003$aaaaaa
+40003$aaaaa
+------aaaaa
+1004$aaaa 5
+2004$aaaaaa
+3004$aaaaaa
+40004$aaaaa
+------aaaaa
+1005$aaaa 6
+2005$aaaaaa
+3005$aaaaaa
+40005$aaaaa
+50005$aaaaa
+1006$aaaa 7
+2006$aaaaaa
+3006$aaaaaa
+40006$aaaaa
+50006$aaaaa
+Libre  o
+0000000$
+1000000$
+1300000$
+xxxx00xa
+Libre  o
+1000000$
+1000000$
+1000000$
+xxxx00xa
+Gra$000a
+2000000$
+2000000$
+2000000$
+xxxxa00a
+Gra$000a
+3000000$
+3000000$
+3000000$
+xxx000xa
+Gr0000aa
+4000000$
+4000000$
+4000000$
+xxx000xa
+Wbc100 a
+wbc002 a
+wbc003 a
+wbc004 a
+wbc005 a
+bon001 a
+bon002 a
+bon003 a
+bon004 a
+bon005 a
+~TRANS /
+AU
+MA
+                                                              a
+                                                              a
+S~i
+N~o
+Repeticion1Aa
+Repeticion2Aa
+Repeticion3Aa
+Repeticion4Aa
+Repeticion5Aa
+Repeticion6Aa
+Repeticion1Ca
+Repeticion2Ca
+Repeticion3Ca
+Repeticion4Ca
+Repeticion5Ca
+Repeticion6Ca
+RÉCORDSA1                a
+RÉCORDSA2                a
+RÉCORDSA3                a
+RÉCORDSA4                a
+RÉCORDSA5                a
+RÉCORDSA5                a
+RÉCORDSC1                a
+RÉCORDSC2                a
+RÉCORDSC3                a
+RÉCORDSC4                a
+RÉCORDSC5                a
+RÉCORDSC5                a
+Nombre jugador 1         a
+Nombre jugador 2         a
+Nombre jugador 3         a
+Nombre jugador 4         a
+Nombre jugador 5         a
+Nombre jugador 6         a
+Nombre jugador 7         a
+Nombre jugador 8         a
+Cursor Arriba            a
+Cursor Abajo             a
+Cursor Izquierda         a
+Cursor Derecha           a
+Control                  a
+Enter                    a
+Space                    a
+Shift                    a
+A                        a
+Z                        a
+F1                       a
+Merca~do
+                                                              a
+                                                              a
+NOMBRE                   a
+INFORMACIÓN              a
+                         a
+                         a
+Nombre del Jugador       a
+Puntos                   a
+Copas                    a
+Fecha                    a
+Rock´N´Roll baby
+Liga de 3 circuitos
+Cruce serpiente
+Snake, cross & buggy
+Velocidad mixta
+Buggy, cross, velocidad
+¡Come polvo!
+Mar de tierra
+Y el ganador es ...
+Velocidad decisiva
+Velocidad ilimitada
+Las 4 pruebas
+Ruta calavera
+Se busca calidad
+3 x 2
+Eso es, 2 x 2 x 2
+¡Quemado!
+Los 5 infernales
+Carreras mixtas
+Dobles carreras
+Velocidad límite
+Master de velocidad
+¡Dale cagón!
+De Dale para ti...
+Night Rock
+Pura velocidad
+Rally Cross
+Dunas,dunas,dunas
+Shark Beat
+Noches de buggy
+Speed Wood
+¡Sé el más rápido!
+Cross
+3,2,1...
+U-ROCK
+Reglas de U
+Cross extremo
+Cruce de caminos
+Shark Beat II
+Carrera de buggys
+2 X 2
+Buggy y velocidad
+Máquinas de cross
+Super Cross
+Carreras rápidas
+Velocidad & cross
+Adelantamiento
+Buggy & velocidad
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+                                                              a
+¡VUELTA RÁPIDA!
+¡MEJOR TIEMPO GLOBAL!
+Desafío Beetle
+Cargar Partida
+Grabar Partida
+C~argar
+~Grabar
+Jugador
+Fecha de la partida
+Puntos
+Pruebas de Monster
+Pruebas de Cross
+Pruebas de Velocidad
+Pruebas de Buggy
+Pruebas de Salto
+Pruebas de Bonus
+Pruebas de WBC
+Tipo de prueba
+Test
+Premio
+~1. Novato
+~2. Semi-Pro
+~3. Profesional
+~4. Maestro
+Libre
+2000$
+4500$
+8200$
+2001$-
+4501$
+8201$
+2002$
+4502$
+8202$
+2003$
+4503$
+8203$
+2004$
+4504$
+8204$
+XXXXXXX
+XXXXXXX
+~1. Contra-reloj
+~2. Furgonetas W
+~3. 1 vs 1 Buggy
+~4. Cross
+B--------
+0000$
+0001$
+0002$
+0003$
+0004$
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+BbbbbXXX
+333333$
+444444$
+555555$
+666666$
+777777$
+~Jugar
+Lista de juegos:
+Selecciona Liga:
+Lista de jugadores:
+Mensaje:
+Lista de Repeticiones:
+Lista de Juegos:
+Lista de Récords:
+Categoría
+~Mejor vuelta
+~Global
+Categoría:
+Monster 1
+Cross 1
+U-Rock
+Shark Beat 1
+Monster 2
+Cross 2
+Snake Alley
+Shark Beat 2
+Monster 3
+Cross 3
+Speed Wood
+Shark Beat 3
+Monster 4
+Cross 4
+U-Rock
+Shark Beat 4
+Modo de juego
+Tiempo
+Salto 1
+Salto 2
+Salto 3
+Salto 4
+Récords de C.Rápida
+Récords de Campeonato
+Aumentar Marcha
+Reducir Marcha
+WBC
+Snake Alley
+WBC Monster 
+WBC Cross 
+U-Rock
+WBC Shark Beat
+Salto 5
+--------
+~MONSTER
+~CROSS
+~VELOCIDAD
+~BUGGY
+B~ONUS
+~WBC
+~SALTO
+Bienvenido.
+Pulsa sobre las banderas para
+escoger una prueba.
+Buena suerte.
+~Ok
+--------
+* linea 1 de braven
+* linea 2 de braven
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+¡Enhorabuena!
+has ganado una prueba de Bonus.
+Tienes acceso a una prueba
+de Bonus. Presiona sobre su bandera
+para entrar.
+No hay ningún Bonus accesible.
+No dispones de suficientes
+puntos de Fama para comprar
+ese coche.
+¿Seguro que quieres vender
+el coche?
+¡Enhorabuena!
+Acabas de comprar un nuevo coche.
+Debes ser Maestro en todas
+las categorías para participar
+en la World Beetle Cup.
+Debes superar la prueba anterior
+para acceder a la siguiente.
+¿Deseas abandonar la partida?
+Precio del coche
+Puntos de Fama
+PRECIO: 
+******************
+******************
+******************
+* Prepárate, 4 segundos para empezar...
+* Juego cerrado, empezando en 2 segundos...
+******************
+¡Ya tienes este coche!
+¡Felicidades!
+Eres Maestro en todas las pruebas.
+Obtienes acceso a la WBC.
+No puedes vender todos tus coches,
+debes tener uno como mínimo.
+El dispositivo de juego no responde
+asegúrate de que esté conectado
+o selecciona teclado.
+Debes ganar el Campeonato 1
+para acceder al Campeonato 2.
+Debes ganar los otros Campeonatos
+para acceder al Campeonato 3.
+******************
+******************
+******************
+Esa prueba de Bonus
+no es accesible por el momento.
+Buenas carreras,
+casi lo has logrado,
+¡prueba de nuevo!
+Juego grabado satisfactoriamente.
+Juego cargado satisfactoriamente.
+******************
+******************
+En Juego
+Internet
+Oponente
+******************
+******************
+******************
+BEETLE
+Motor T1     2 carb
+1641cc  100 hp  780kg
+      
+Mantén viva la leyenda
+*
+Valor: 1000$
+BEETLE
+Motor T1     2   carb
+1641cc  100 hp  750kg
+       
+Beetle para siempre...
+*
+Valor: 2000$
+BEETLE
+Motor T1     2   carb
+2000cc  170 hp  780kg
+Sólo para adictos a
+las carreras de Beetles
+***
+Valor: 3000$
+BEETLE
+Motor en bloque de aluminio
+2900cc  300 hp  780kg
+Listo para llevar...
+¡el bicho brutal!
+*****
+Valor: 8000$
+RODBUSTER
+Motor T1     2   carb
+1835cc  140 hp  750kg
+Todos los placeres de
+una conducción fácil
+**
+Valor: 8000$
+RODBUSTER
+Motor T1     2   carb
+1835cc  140 hp  730kg
+Este coche es el campeón
+de su categoría
+**
+Valor: 8000$
+RODBUSTER
+Motor T4     2   carb
+2400cc  220 hp  750kg
+Con este coche, ¡serás la
+furia de la carretera!
+****
+Valor: 8000$
+RODBUSTER
+Motor en bloque de aluminio
+2900cc  300 hp  750kg
+Eres el Rey
+de la carretera
+*****
+Valor: 8000$
+MANX
+Motor T1     2   carb
+1835cc  140 hp  720kg
+El mejor coche
+de su categoría
+**
+Valor: 9000$
+MANX
+Motor T1     2   carb
+2000cc  170 hp  720kg
+     
+Ha nacido una estrella
+***
+Valor:10000$
+MANX
+Motor T4     2   carb
+2400cc  220 hp  720kg
+Te permitirá conducir en
+"la espiral infernal"
+****
+Valor:11000$
+MANX
+Motor en bloque de aluminio
+2900cc  300 hp  720kg
+El maestro de todas las
+categorías: ¡El Manx Loco!
+*****
+Valor: 8000$
+BEETLE
+Motor T1     2   carb
+2000cc  170 hp  2180kg
+         
+¡Locos por el Beetle!
+***
+Valor: 8000$
+BEETLE
+Motor en bloque de aluminio
+2900cc  300 hp  2180kg
+       
+¡Serás el Rey de la prueba!
+*****
+Valor: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+BEETLE
+T1  2 carb  Sistema Nitro
+1835cc  200 hp  880kg
+El diablo está
+en tus manos
+**
+Valor: 8000$
+BEETLE
+Bloque de aluminio + Nitro
+2900cc  400 hp  880kg
+¿Preparado para conocer al
+"Beetle Volador"?
+*****
+Valor: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+BEETLE
+Motor T1     2   carb
+2000cc  170 hp  740kg
+Campeón de "Stock Cars"
+en 1998
+***
+Valor: 8000$
+BEETLE
+Motor T1     2   carb
+2000cc  170 hp  740kg
+¡Alcanza el límite
+con este escarabajo!
+***
+Valor: 8000$
+BEETLE
+Motor T4     2   carb
+2400cc  220 hp  740kg
+Nunca subestimes a
+un escarabajo!
+****
+Valor: 8000$
+BEETLE
+Motor en bloque de aluminio
+2900cc  400 hp  840kg
+Serás el Maestro de
+la prueba
+*****
+Valor: 8000$
+SPEEDSTER
+Motor T1     2   carb
+1835cc  140 hp  690kg
+Descubre el espíritu
+de la carretera ardiente
+**
+Valor: 8000$
+SPEEDSTER
+Motor T1     2   carb
+2000cc  170 hp  690kg
+Tienes en tus manos al
+dragón de las calles
+***
+Valor: 8000$
+SPEEDSTER
+Motor T4     2   carb
+2400cc  220 hp  690kg
+Atrévete, elige ser
+el piloto definitivo
+****
+Valor: 8000$
+SPEEDSTER
+Motor en bloque de aluminio
+2900cc  400 hp  690kg
+¿Alguien ha visto
+al exterminador?
+*****
+Valor: 8000$
+KARMANN
+T1  2 carb  Sistema Nitro
+1641cc  100 hp  910kg
+Clásico pero potente
+Karmann
+*
+Valor: 8000$
+KARMANN
+T4  2 carb  Sistema Nitro
+2400cc  220 hp  910kg
+       
+Conduce el coche atómico
+****
+Valor: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+BUGGY
+Motor T1     2   carb
+1641cc  100 hp  700kg
+¡Practica el Surf
+con tu buggy!
+*
+Valor: 8000$
+BUGGY
+Motor T1     2   carb
+1641cc  100 hp  700kg
+Sólo por...
+diversión y deporte
+*
+Valor: 8000$
+BUGGY
+Motor T1     2   carb
+2000cc  170 hp  700kg
+Siéntete libre, ¡Big Joe
+está en tus manos!
+***
+Valor: 8000$
+BUGGY
+Motor T4     2   carb
+2400cc  220 hp  700kg
+¡Cuidado con el
+depredador de playas!
+****
+Valor: 8000$
+COMBI
+Motor T1     2   carb
+1835cc  140 hp  1050kg
+¡Mantén vivo el ambiente
+de los 60!
+**
+Valor: 8000$
+COMBI
+Motor T1     2   carb
+1835cc  140 hp  1050kg
+¡Mantén vivo el ambiente
+de los 60!
+**
+Valor: 8000$
+COMBI
+Motor T1     2   carb
+1835cc  140 hp  1050kg
+¡Mantén vivo el ambiente
+de los 60!
+**
+Valor: 8000$
+COMBI
+Motor T1     2   carb
+1835cc  140 hp  1050kg
+¡Mantén vivo el ambiente
+de los 60!
+**
+Valor: 8000$
+KARMANN
+Motor T1     2   carb
+1835cc  140 hp  2210kg
+Grandes ruedas,
+¡gran acuerdo!
+**
+Valor: 8000$
+KARMANN
+Motor en bloque de aluminio
+2900cc  400 hp  690kg
+¡Aplasta los coches,
+llévate el dinero!
+*****
+Valor: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+TOW´D
+Motor T1     2   carb
+1835cc  140 hp  710kg
+Playa, sol y
+sensaciones de velocidad.
+**
+Valor: 8000$
+TOW´D
+Motor T1     2   carb
+2000cc  170 hp  710kg
+¡No te arrepentirás
+de tu elección!
+***
+Valor: 8000$
+TOW´D
+Motor T4     2   carb
+2400cc  220 hp  710kg
+Ha llegado el rey de
+la playa.
+****
+Valor: 8000$
+TOW´D
+Motor en bloque de aluminio
+2900cc  400 hp  710kg
+Agárrate a la carretera
+con este Tow´d
+*****
+Valor: 8000$
+LA COSA  
+Motor T1     2   carb
+1641cc  100 hp  820kg
+Especialmente recomendado
+para principiantes
+*
+Valor: 8000$
+LA COSA  
+Motor T1     2   carb
+1641cc  100 hp  820kg
+     
+Rojo o azul, ¡depende de tí!
+*
+Valor: 8000$
+LA COSA  
+Motor T1     2   carb
+1835cc  140 hp  820kg
+Nada puede parar a
+esta "Cosa"
+**
+Valor: 8000$
+LA COSA  
+Motor T1     2   carb
+2000cc  170 hp  820kg
+        
+El estadio es tuyo
+***
+Valor: 8000$
+SPEEDSTER
+T1  2 carb  Sistema Nitro
+2000cc  170 hp  790kg
+          
+Dale un impulso a tu motor
+***
+Valor: 8000$
+SPEEDSTER
+Bloque de aluminio + Nitro
+2900cc  400 hp  790kg
+            
+¡¡¡Alcanza la luna!!!
+*****
+Valor: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+BAJA
+Motor T1     2   carb
+1835cc  140 hp  740kg
+El bicho del
+desierto
+**
+Valor: 8000$
+BAJA
+Motor T1     2   carb
+1835cc  140 hp  740kg
+         
+¡Que la Baja sea contigo!
+**
+Valor: 8000$
+BAJA
+Motor T4     2   carb
+2400cc  220 hp  740kg
+Todos morderán
+el polvo
+****
+Valor: 8000$
+BAJA
+Motor en bloque de aluminio
+2900cc  400 hp  740kg
+El demonio de la
+velocidad te hechizará
+*****
+Valor: 8000$
+VAN PICKUP
+Motor T1     2   carb
+1641cc  100 hp  2450kg
+Sólo para ti:
+un original pickup!
+*
+Valor: 8000$
+VAN PICKUP
+Motor T4     2   carb
+2400cc  220 hp  2450kg
+Poderoso, pero sobretodo...
+¡monstruoso!
+****
+Valor: 8000$
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NO TOCAR
+NEW BEETLE CUP
+Motor basado en VR-6
+2800cc  204 hp  1200kg
+Quema la carretera con
+el Nuevo Beetle Cup
+*****
+Valor: 8000$
+NEW BEETLE CUP
+Motor basado en VR-6
+2800cc  204 hp  1200kg
+Quema la carretera con
+el Nuevo Beetle Cup
+*****
+Valor: 8000$
+NEW BEETLE CUP
+Motor basado en VR-6
+2800cc  204 hp  1200kg
+Quema la carretera con
+el Nuevo Beetle Cup
+*****
+Valor: 8000$
+NEW BEETLE CUP
+Motor basado en VR-6
+2800cc  204 hp  1200kg
+Quema la carretera con
+el Nuevo Beetle Cup
+*****
+Valor: 8000$
+DRAGSTER
+Motor en bloque de aluminio
+2900cc  400 hp  840kg
+        
+         
+*****
+Valor: 8000$
+DRAGSTER
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+DDDDDDDDDD
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+2000cc  Hp 150
+Max Vel 180 Km/h
+Acc 1000m 27 seg
+Peso 1000 Kg
+Nº Marchas
+*****
+Valor: 8000$
+OIL DRAGON
+BLACK STORM
+TEKO
+LUZ
+YAKO
+XOAK
+FURY
+TECH 22
+BLUE
+BUG-RED
+SPIRAL
+NUSE
+ASHKICKER
+BRUTAL
+-----
+-----
+FIRE DEMON
+BIG JOE
+-----
+-----
+MOUNTAIN
+ALX
+DRW TEAM
+BTL UNLIMITED
+RIBIK
+BLUE DREAM
+FORMS 2
+JOKER
+RS
+CODE TEAM
+-----
+-----
+SURF-BUB
+CONTACT
+BIG JOE
+SHARK
+VAN W1
+VAN W2
+VAN W3
+VAN W4
+TERRACOTTA
+FOUR SYS
+-----
+-----
+LUXI
+DS KITS
+SENK
+SENTRY
+FIREMORF
+EXCESS
+STRIDER
+3N
+IMPACT
+TOTAL SOOK
+-----
+-----
+ATR
+HURRICANE
+GUARDIAN
+UROIK 2
+BIG JOE
+LTEAM
+-----
+-----
+NEW BEETLE
+NEW BEETLE
+NEW BEETLE
+NEW BEETLE
+RIGBER
+RIGBER
+RIGBER
+RIGBER
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+¡Bien hecho campeón!
+Buena carrera, ¡casi lo has logrado!
+Sólo un poco más, ¡vamos!
+a
+¡Buen salto campeón!
+No es suficiente, ¡prueba de nuevo!
+¡Sí! prueba superada campeón
+Fin de carrera, fuera de tiempo
+¡Cuidado! ¡camino incorrecto!
+QUEDAN 2 VUELTAS
+ÚLTIMA VUELTA
+¡MEJOR VUELTA!
+¿Tomando un descanso?
+¿Te has quedado sin gasolina?
+1ª POSICIÓN
+2ª POSICIÓN
+3ª POSICIÓN
+4ª POSICIÓN
+5ª POSICIÓN
+6ª POSICIÓN
+7ª POSICIÓN
+8ª POSICIÓN
+Necesitas mejorar,
+¡no te rindas y prueba otra vez!
+U-ROCK€
+SNAKE ALLEY€
+SPEED WOOD€
+CARRERA RÁPIDA VELOCIDAD
+VELOCIDAD NOVATO
+VELOCIDAD SEMI-PRO
+VELOCIDAD PROFESIONAL
+VELOCIDAD MAESTRO
+VELOCIDAD WBC
+VELOCIDAD CAMPEONATO
+CONTRA-RELOJ
+THE TAKE OFF€
+CARRERA RÁPIDA SALTO
+SALTO NOVATO
+SALTO SEMI-PRO
+SALTO PROFESIONAL
+SALTO MAESTRO
+SALTO WBC
+THE MONSTER€
+CARRERA RÁPIDA MONSTER
+MONSTER NOVATO
+MONSTER SEMI-PRO
+MONSTER PROFESIONAL
+MONSTER MAESTRO
+MONSTER WBC
+1 VS 1 BONUS
+CROSS BONUS
+CROSS & ROLL€
+CARRERA RÁPIDA CROSS
+CROSS NOVATO
+CROSS SEMI-PRO
+CROSS PROFESIONAL
+CROSS MAESTRO
+CROSS WBC
+CROSS CAMPEONATO
+SHARK BEAT€
+CARRERA RÁPIDA BUGGY
+BUGGY NOVATO
+BUGGY SEMI-PRO
+BUGGY PROFESIONAL
+BUGGY MAESTRO
+BUGGY WBC
+BUGGY CAMPEONATO
+FURGONETAS BONUS
+GANA LA CARRERA EN:
+3 VUELTAS
+2 VUELTAS
+1 VUELTA
+HAZ 2 VUELTAS EN:
+NECESITAS SALTAR
+¿Quieres abandonar el campeonato?
+DESAFÍO BUGGY€
+111111111
+DESAFÍO FINAL
+Bienvenido...
+¿preparado para un paseo lunar?
+Física loca
+Diversión total
+Fama infinita,
+compra todo lo que desees.
+MULTIJUGADOR€
+1
+1
+1
+Bienvenido al Desafío Beetle.
+Presiona sobre las banderas para
+participar en las pruebas. Cada una
+superada da acceso a otra de 
+nivel superior. ¡Buena suerte!
+¡Buen trabajo! Bonus superado.
+Puedes obtener más puntos de Fama
+al establecer un nuevo récord.
+PREMIO *10000*
+¡Buen trabajo! Bonus superado.
+Puedes obtener más puntos de Fama
+al establecer un nuevo récord.
+PREMIO *10000*
+¡Buen trabajo! Bonus superado.
+Puedes obtener más puntos de Fama
+al establecer un nuevo récord.
+PREMIO *10000*
+¡Buen trabajo! Bonus superado.
+Puedes obtener más puntos de Fama
+al establecer un nuevo récord.
+PREMIO *10000*
+C
+Sólo versión de red detectada.
+No se puede continuar la carga.
+C
+¡Buen trabajo! Bonus superado.
+Puedes obtener más puntos de Fama
+al establecer un nuevo récord.
+PREMIO *10000*
+¡Muy bien!
+Primera prueba superada.
+PREMIO: *50000*
+Buen trabajo.
+Dos pruebas superadas.
+PREMIO: *50000*
+¡Fantástico!
+Ya sólo restan dos pruebas más.
+PREMIO: *50000*
+¡No pares Campeón!
+¡Un paso más para la gloria!
+PREMIO: *50000*
+¡Felicidades! Has completado la WBC.
+Eres el mejor. Muestra tu poderío
+en el Desafío del Super New Beetle.
+¡Éste es tu último reto!
+¡Bienvenido!
+Pulsa sobre una copa para escoger
+un campeonato. El corredor que
+obtiene más puntos al final
+gana la copa.
+Estupendo,
+has ganado el Campeonato 1.
+Ahora puedes jugar el Campeonato 2.
+Buena suerte.
+¡Bien hecho!
+has ganado el Campeonato 2.
+Obtienes acceso al Campeonato 3.
+Buena suerte.
+Enhorabuena Campeón.
+¿Podrías hacer lo mismo
+con la WBC?
+Necesitas un poco más de práctica.
+¡Prueba de nuevo!
+Esta prueba la tienes dominada.
+¡Prueba con otra!
+¡YA!
+POS
+VUELTA
+TIEMPO
+OPONENTES
+RÉCORDS
+DISTANCIA
+PENALIZACIONES
+Ese nombre ya existe.
+Por favor elige otro.
+¡Felicidades! Ya eres campeón
+Novato de Velocidad, obtienes
+acceso a la prueba Semi-Pro.
+¡Ánimo ya has dado el primer paso!
+PREMIO: *500*
+¡Enhorabuena campeón Semi-Pro
+de Velocidad! Ganas acceso
+al nivel Profesional.
+¡Bien hecho, sigue así!
+PREMIO: *5000*
+¡Enhorabuena!
+Campeón Profesional de Velocidad.
+Obtienes acceso al nivel Maestro.
+¡Tienes madera de campeón!
+PREMIO: *15000*
+¡Felicidades campeón Maestro de
+Velocidad! Sin duda eres bueno...
+en esta prueba. Completa el resto
+para participar en la WBC.
+PREMIO: *30000*
+¡Genial!
+Eres campeón Novato de Monster.
+Acceso a Semi-pro garantizado.
+¡Sigue así!
+PREMIO: *500*
+¡Muy bien!
+Eres campeón Semi-Pro de Monster.
+Obtienes acceso al nivel Profesional.
+Demuestra lo que sabes.
+PREMIO: *5000*
+¡Fantástico!
+Campeón profesional de Monster.
+Obtienes acceso al nivel Maestro.
+¡Es tu última prueba!
+PREMIO: *15000*
+¡Felicidades campeón Maestro de
+Monster! Sin duda eres bueno...
+en esta prueba. Completa el resto
+para participar en la WBC.
+PREMIO: *30000*
+¡Felicidades! Ya eres campeón
+Novato de Salto, ahora tienes
+acceso a la prueba Semi-Pro.
+¡Ánimo ya has dado el primer paso!
+PREMIO: *500*
+¡Muy bien!
+Eres campeón Semi-Pro de Salto.
+Obtienes acceso al nivel Profesional.
+¡Demuestra lo que sabes!
+PREMIO: *5000*
+¡Enhorabuena!
+Eres campeón Profesional de Salto.
+Obtienes acceso al nivel Maestro.
+¡Tienes madera de campeón!
+PREMIO: *15000*
+¡Felicidades campeón Maestro de
+Salto! Sin duda eres bueno...
+en esta prueba. Completa el resto
+para participar en la WBC.
+PREMIO: *30000*
+¡Felicidades! Ya eres campeón
+Novato de Cross, ahora tienes
+acceso a la prueba Semi-Pro.
+¡Ánimo ya has dado el primer paso!
+PREMIO: *500*
+¡Muy bien!
+Eres campeón Semi-Pro de Cross.
+Obtienes acceso al nivel Profesional.
+Demuestra lo que sabes.
+PREMIO: *5000*
+¡Fantástico!
+Campeón profesional de Cross.
+Obtienes acceso al nivel Maestro.
+¡Es tu última prueba!
+PREMIO: *15000*
+¡Felicidades campeón Maestro de
+Cross! Sin duda eres bueno...
+en esta prueba. Completa el resto
+para participar en la WBC.
+PREMIO: *30000*
+¡Genial!
+Ya eres campeón Novato de Buggy.
+Acceso a Semi-pro garantizado.
+¡Sigue así!
+PREMIO: *500*
+¡Estupendo campeón Semi-Pro
+de Buggy! Ganas acceso al nivel
+Profesional. Bien hecho,
+¡sigue así!
+PREMIO: *5000*
+¡Enhorabuena!
+Eres campeón Profesional de Buggy.
+Obtienes acceso al nivel Maestro.
+¡Tienes madera de campeón!
+PREMIO: *15000*
+¡Felicidades campeón Maestro de
+Buggy! Sin duda eres bueno...
+en esta prueba. Completa el resto
+para participar en la WBC.
+PREMIO: *30000*
+50 puntos
+30 puntos
+20 puntos
+15 puntos
+10 puntos
+8 puntos
+5 puntos
+0 puntos
+¡Estupendo! Test de Bonus pasado
+Bonus fallido, ¡prueba de nuevo!
+¡Excelente! bien hecho campeón
+¡Bien hecho! prueba superada
+Correcto, ¡lo hiciste!
+Genial ¡Has pulverizado la prueba! 
+¡Sí! prueba superada
+Muy bien, ¡has pasado la prueba!
+Demonios, ¡un salto extraordinario!
+¡Buen salto campeón!
+Correcto, ¡salto superado con éxito!
+Debes seleccionar una partida
+a cargar.
+¡Descalificado!
+BONUS
+¡Excelente! Test de Bonus pasado
+Ok, Test de Bonus pasado
+¡Campeón! ¡eres el mejor!
+Has perdido la carrera...
+PRUEBA DE MONSTER
+PRUEBA DE SALTO
+¡Mala suerte! ¡inténtalo de nuevo!
+DEMO MESSAGE DEMO MESSAGE DEMO MESSAGE DEMO
+        
+Bruno Bonnell presenta una producción de Infogrames,
+ideada y desarrollada por Xpiral:
+Beetle Crazy Cup
+ 
+Por XPIRAL:
+Concepto, Diseño, Motor 3D, Programación y Arte:
+ 
+Daniel Mauro García
+David González Pérez
+Enrique García Martín
+Enrique Morera Corcuera
+Jesús Borque
+J. M. Fernández Oli
+Miguel A. Tartaj Casanova
+ 
+Agradecimientos especiales a:
+ 
+Eric Mottet, Jason Della Rocca, Qsound team,
+Omar Yehia, Andrea D’Orta, Dara Gray,
+Javier Sanchez, Carlos Tartaj, Miryam, Esther,
+Toño y Laura, Chelín, Carlos y Reyes, Maya, Isa, Loky,
+Kevin Cook, James Hawkins, Carlos Lagarto, Ignacio Maluenda,
+Jorge Fuertes, Pierre Carde, Christophe Laboureau, Karine Lextrait.
+ 
+Por INFOGRAMES:
+ 
+Vice-presidente Marca Sport:
+Mickaël Sportouch
+ 
+Director Motorsports:
+Arthur Houtman
+ 
+Productor:
+Eric Guérin
+ 
+Productores asociados:
+Gérald Bonnet, Benoit Arribart
+ 
+Jefe de producto senior:
+Franck Giroudon
+ 
+Jefe de producto:
+Lucile Bousquet
+ 
+Manual:
+Lucile Bousquet, Eric Guérin
+ 
+Director Técnico:
+Emmanuelle Périgault-Vigier
+ 
+Responsable de garantía de calidad:
+Olivier Robin
+ 
+Responsable de la sección de calidad:
+Dominique Morel
+ 
+Supervisor de debugging:
+Vincent Laloy
+ 
+Coordinadores de pruebas de producto:
+Emmanuel Desmaris, Carine Mawart, Emeric Polin,
+Merche Sánchez García, Sébastien Soulier, Emmanuel Thevenet
+ 
+Testeadores:
+Nicolas Bonnier, Lionel Billault,
+Lény Joubert, Stéphanie Michel,
+Elizabeth Tramier, Fabienne Coustes,
+Karine Balichard, Rodric Rambosson,
+Maxence Peillon, Erwan Bouvet, Antoine Simon,
+Francisco Cavielles, Marc Laurent, Helen Ross,
+Begoña Benítez Verdejo, Marie Chartron,
+Solweg Payet-Descombes, Jane Bonner,
+Gérard Bareille, Anthony Côme,
+Nicolas Dubouloz, David Erchoff-Costet,
+Alex Flacher, Michaël Genay, Olivier Jamin,
+Jean-Yves Lapasset, Guillaume Lestrat,
+Bastien Maizière, Olivier Meynard,
+Sabrina Michaud, Bettina Moyrer,
+Sébastien Pauze, Stéphane Randanne,
+Stéphane Rizzo, Arnaud Roccon,
+Karel Tarallo, Laurent Fara.
+ 
+Agradecimientos especiales:
+Departamentos de garantía de calidad de 
+INFOGRAMES North America,
+INFOGRAMES UK Gary Edwards,
+Operaciones especiales INFOGRAMES UK
+ 
+Departamento de Licencias:
+Dorothée Horps, Laurence Dufour
+ 
+Asuntos jurídicos:
+Etienne Piquet-Gauthier
+ 
+Traducción:
+Béatrice Rodriguez, Beate Reiter, Monika Steinhauer
+Karin Haensel, Thomas Holle.
+ 
+Coordinación de relaciones públicas:
+Catherine Louvier, Marie Emilie Requien
+ 
+Estudio de diseño:
+Emmanuelle Tahmazian, Alex Mairey,
+Sophie Wibaux, Olivier Lachard
+ 
+Música:
+Kapagama
+Laurent Lombard
+ 
+Efectos de Sonido:
+Sylvain Chapuis, INNERWAVES
+ 
+Escenas cinemáticas:
+Now Futur
+ 
+Intro Artwork:
+Game One
+Danielle Abensour
+Olivier Labenne
+ 
+Agradecimientos especiales:
+VOLKSWAGEN AG
+Jacky Morel et Fabien Sabatès
+Bruce Meyer
+SUPER VW MAGAZINE
+Fabrice Lefebvre, CAR CONCEPT
+ 
+Consultores automovilísticos:
+Jacky Morel, Serge Le Flohic, Julien-David Collombet,
+Jérémie Verdier, SUPER VW MAGAZINE 
+Fabrice Lefebvre, CAR CONCEPT
+ 
+ 
+Las marcas, modelos expuestos y los derechos de reproducción  
+pertenecientes a VOLKSWAGEN AG son utilizados con la autorización
+del propietario.
+ 
+ 
+ 
+© Infogrames Multimedia 2000 Idea original y desarrollado por Xpiral
+Xpiral es una marca registrada de Efecto Caos S.L.
+ 
+

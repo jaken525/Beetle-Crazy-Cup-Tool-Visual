@@ -1,8 +1,7 @@
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.vcxproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.Converter.resources
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.HelpForm.resources
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.Window.resources
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.vcxproj.GenerateResource.cache
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.obj2infConverter.resources
-C:\Users\Admin\source\repos\BCCTool\BCCTool\Release\BCCTool.SaveEditor.resources
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\Release\BCCTool.vcxproj.AssemblyReference.cache
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\Release\BCCTool.Converter.resources
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\Release\BCCTool.HelpForm.resources
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\Release\BCCTool.obj2infConverter.resources
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\Release\BCCTool.SaveEditor.resources
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\Release\BCCTool.Window.resources
+A:\GitHub\Beetle-Crazy-Cup-Tool-Visual\BCCTool\Release\BCCTool.vcxproj.GenerateResource.cache

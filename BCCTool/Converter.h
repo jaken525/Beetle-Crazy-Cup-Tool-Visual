@@ -312,10 +312,8 @@ namespace BCCTool
 					Unpacker archive;
 					archive.SetPath(*path);
 
-					if (checkBox5->Enabled)
-						archive.createBackup = checkBox5->Checked;
-					if (checkBox6->Enabled)
-						archive.changeStartScreen = checkBox6->Checked;
+					archive.createBackup = checkBox5->Checked;
+					archive.changeStartScreen = checkBox6->Checked;
 
 					label1->Text = L"Packing " + str + L".dat archive.";
 					archive.PackBack(names[i]);

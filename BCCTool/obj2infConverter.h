@@ -12,16 +12,16 @@ namespace BCCTool {
 
 	public ref class obj2infConverter : public System::Windows::Forms::Form
 	{
+	public:
 		otoi::obj2inf obj;
 
-	public:
 		obj2infConverter(std::string* path)
 		{
 			InitializeComponent();
 
 			obj.path = path;
 		}
-
+	
 	protected:
 		~obj2infConverter()
 		{
@@ -150,7 +150,7 @@ namespace BCCTool {
 
 		}
 #pragma endregion
-	private: System::Void timer1_Tick(System::Object^ sender, System::EventArgs^ e) 
+	private: System::Void timer1_Tick(System::Object^ sender, System::EventArgs^ e)
 	{
 		if (checkBox1->Checked)
 			textBox1->Enabled = false;
@@ -158,46 +158,6 @@ namespace BCCTool {
 			textBox1->Enabled = true;
 	}
 
-	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e)
-	{
-		if (checkBox1->Checked)
-		{
-			obj.Reset(true, 0);
-			obj.Convert();
-
-			this->Close();
-		}
-		else
-		{
-			if (textBox1->Text != "") 
-			{
-				int texture = Convert::ToInt32(textBox1->Text);
-
-				if (texture >= 0 && texture <= 3000)
-				{
-					obj.Reset(false, texture);
-					obj.Convert();
-
-					this->Close();
-				}
-				else
-					MessageBox::Show
-					(
-						"The texture number is set incorrectly. Enter a number from 0 to 3000.",
-						"Error",
-						MessageBoxButtons::OK,
-						MessageBoxIcon::Error
-					);
-			}
-			else
-				MessageBox::Show
-				(
-					"The texture number is set incorrectly. Enter a number from 0 to 3000.",
-					"Error",
-					MessageBoxButtons::OK,
-					MessageBoxIcon::Error
-				);
-		}
-	}
-};
+	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e);
+	};
 }

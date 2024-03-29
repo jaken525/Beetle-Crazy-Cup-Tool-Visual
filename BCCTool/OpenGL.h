@@ -7,28 +7,26 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "Model.h"
+
 using namespace System::Windows::Forms;
 
 GLfloat rotateX = 0;
 GLfloat rotateY = 0;
 GLfloat zoom = 1;
 
+int lastX, lastY;
+bool rotate = false;
+float angleX = 0.0f;
+float angleY = 0.0f;
+
 namespace OpenGLForm
 {
 	public ref class COpenGL : public System::Windows::Forms::NativeWindow
 	{
 	public:
-		float* vertices;
-		int* faces;
-
-		int facesNum = 0;
-		int verNum = 0;
-
 		COpenGL(System::Windows::Forms::Form^ parentForm, GLsizei iWidth, GLsizei iHeight)
 		{
-			vertices = NULL;
-			faces = NULL;
-
 			CreateParams^ cp = gcnew CreateParams;
 
 			cp->X = 12;
@@ -54,10 +52,7 @@ namespace OpenGLForm
 
 		void Reset()
 		{
-			facesNum = 0;
-			verNum = 0;
-			vertices = NULL;
-			faces = NULL;
+			Model::Reset();
 		}
 
 		int GetZeroesOfMaxOfArray(float* arr, int size)
@@ -100,24 +95,24 @@ namespace OpenGLForm
 			glRotatef(rotateY, 1.0f, 0.0f, 0.0f);
 			glRotatef(rotateX, 0.0f, 1.0f, 0.0f);
 
-			if (vertices != NULL) 
+			if (Model::vertices != NULL && Model::faces != NULL)
 			{
-				int n = GetZeroesOfMaxOfArray(vertices, verNum);
+				int n = GetZeroesOfMaxOfArray(Model::vertices, Model::verticesCount);
 
 				glBegin(GL_TRIANGLES);
 				glColor3f(0.0f, 1.0f, 0.0f);
 
-				for (int i = 0; i < facesNum; i++)
+				for (int i = 0; i < Model::facesCount; i++)
 				{
-					glNormal3f(vertices[faces[i * 3] * 3] / pow(10, n), vertices[faces[i * 3] * 3 + 1] / pow(10, n), vertices[faces[i * 3] * 3 + 2] / pow(10, n));
-					glNormal3f(vertices[faces[i * 3 + 1] * 3] / pow(10, n), vertices[faces[i * 3 + 1] * 3 + 1] / pow(10, n), vertices[faces[i * 3 + 1] * 3 + 2] / pow(10, n));
-					glNormal3f(vertices[faces[i * 3 + 2] * 3] / pow(10, n), vertices[faces[i * 3 + 2] * 3 + 1] / pow(10, n), vertices[faces[i * 3 + 2] * 3 + 2] / pow(10, n));
+					glNormal3f(Model::vertices[Model::faces[i * 3] * 3] / pow(10, n), Model::vertices[Model::faces[i * 3] * 3 + 1] / pow(10, n), Model::vertices[Model::faces[i * 3] * 3 + 2] / pow(10, n));
+					glNormal3f(Model::vertices[Model::faces[i * 3 + 1] * 3] / pow(10, n), Model::vertices[Model::faces[i * 3 + 1] * 3 + 1] / pow(10, n), Model::vertices[Model::faces[i * 3 + 1] * 3 + 2] / pow(10, n));
+					glNormal3f(Model::vertices[Model::faces[i * 3 + 2] * 3] / pow(10, n), Model::vertices[Model::faces[i * 3 + 2] * 3 + 1] / pow(10, n), Model::vertices[Model::faces[i * 3 + 2] * 3 + 2] / pow(10, n));
 
-					glVertex3f(vertices[faces[i * 3] * 3] / pow(10, n), vertices[faces[i * 3] * 3 + 1] / pow(10, n), vertices[faces[i * 3] * 3 + 2] / pow(10, n));
-					glVertex3f(vertices[faces[i * 3 + 1] * 3] / pow(10, n), vertices[faces[i * 3 + 1] * 3 + 1] / pow(10, n), vertices[faces[i * 3 + 1] * 3 + 2] / pow(10, n));
-					glVertex3f(vertices[faces[i * 3 + 2] * 3] / pow(10, n), vertices[faces[i * 3 + 2] * 3 + 1] / pow(10, n), vertices[faces[i * 3 + 2] * 3 + 2] / pow(10, n));
+					glVertex3f(Model::vertices[Model::faces[i * 3] * 3] / pow(10, n), Model::vertices[Model::faces[i * 3] * 3 + 1] / pow(10, n), Model::vertices[Model::faces[i * 3] * 3 + 2] / pow(10, n));
+					glVertex3f(Model::vertices[Model::faces[i * 3 + 1] * 3] / pow(10, n), Model::vertices[Model::faces[i * 3 + 1] * 3 + 1] / pow(10, n), Model::vertices[Model::faces[i * 3 + 1] * 3 + 2] / pow(10, n));
+					glVertex3f(Model::vertices[Model::faces[i * 3 + 2] * 3] / pow(10, n), Model::vertices[Model::faces[i * 3 + 2] * 3 + 1] / pow(10, n), Model::vertices[Model::faces[i * 3 + 2] * 3 + 2] / pow(10, n));
 				}
-				glEnd();											// Done drawing the pyramid
+				glEnd();
 			}
 		}
 
@@ -134,10 +129,6 @@ namespace OpenGLForm
 		~COpenGL(System::Void)
 		{
 			this->DestroyHandle();
-
-			delete[] vertices;
-			delete[] faces;
-			facesNum = 0;
 		}
 
 		GLint MySetPixelFormat(HDC hdc)
@@ -166,14 +157,12 @@ namespace OpenGLForm
 
 			GLint  iPixelFormat;
 
-			// get the device context's best, available pixel format match 
 			if ((iPixelFormat = ChoosePixelFormat(hdc, &pfd)) == 0)
 			{
 				MessageBox::Show("ChoosePixelFormat Failed");
 				return 0;
 			}
 
-			// make that match the device context's current pixel format 
 			if (SetPixelFormat(hdc, iPixelFormat, &pfd) == FALSE)
 			{
 				MessageBox::Show("SetPixelFormat Failed");
@@ -191,7 +180,6 @@ namespace OpenGLForm
 				MessageBox::Show("wglMakeCurrent Failed");
 				return 0;
 			}
-
 
 			return 1;
 		}

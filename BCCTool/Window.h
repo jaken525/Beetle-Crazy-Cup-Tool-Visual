@@ -1,5 +1,3 @@
-#pragma once
-
 #include "obj2infConverter.h"
 #include "HelpForm.h"
 #include "OpenGL.h"
@@ -60,7 +58,7 @@ namespace BCCTool
 			this->KeyDown += gcnew KeyEventHandler(this, &Window::keyBoard);
 			OpenGL = gcnew COpenGL(this, 970, 555);
 
-			if (!fs::exists(*currentPath + "\\beetle.exe") || !fs::exists(*currentPath + "\\radical.exe"))
+			if (!fs::exists(*currentPath + "\\beetle.exe"))
 				MessageBox::Show("Incorrect location of the program. To work correctly, place the program in the folder with the executable file of the original game.", "Warning", MessageBoxButtons::OK, MessageBoxIcon::Warning);
 
 			InitializeComponent();
@@ -400,14 +398,6 @@ namespace BCCTool
 		OpenGL->Reset();
 		con.Reset();
 		con.Convert();
-
-		if (con.vertices != NULL)
-		{
-			OpenGL->facesNum = con.num_triangles;
-			OpenGL->vertices = con.vertices;
-			OpenGL->faces = con.verTri;
-			OpenGL->verNum = con.num_vertices;
-		}
 	}
 
 	private: System::Void timer1_Tick(System::Object^ sender, System::EventArgs^ e)
@@ -420,20 +410,7 @@ namespace BCCTool
 
 		label6->Text = L"speed: X" + hScrollBar4->Value + L" zoom: " + zoom + L" x: " + rotateX + L" y: " + rotateY;
 
-		this->Visible = !(formHelp->Visible || converter->Visible || archive->Visible || con.block || saver->Visible);
-		/*block = formHelp->Visible || converter->Visible || archive->Visible || con.block || saver->Visible;
-
-		if (block)
-		{
-			this->groupBox1->Enabled = false;
-			this->hScrollBar4->Enabled = false;
-		}
-		else
-		{
-			this->groupBox1->Enabled = true;
-			this->hScrollBar4->Enabled = true;
-		}
-		*/
+//		this->Visible = !(formHelp->Visible || converter->Visible || archive->Visible || con.block || saver->Visible);
 	}
 
 	private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e)
@@ -471,6 +448,7 @@ namespace BCCTool
 
 	private: System::Void button6_Click(System::Object^ sender, System::EventArgs^ e) 
 	{
+		OpenGL->Reset();
 		saver = gcnew SaveEditor(*currentPath);
 		saver->Show();
 	}

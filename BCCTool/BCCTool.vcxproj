@@ -133,9 +133,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryFileWork.cpp" />
     <ClCompile Include="Converter.cpp" />
     <ClCompile Include="HelpForm.cpp" />
     <ClCompile Include="mk64n.cpp" />
+    <ClCompile Include="Model.cpp" />
+    <ClCompile Include="obj2inf.cpp" />
     <ClCompile Include="obj2infConverter.cpp" />
     <ClCompile Include="SaveEditor.cpp" />
     <ClCompile Include="saver.cpp" />
@@ -143,6 +146,7 @@
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryFileWork.h" />
     <ClInclude Include="Converter.h">
       <FileType>CppForm</FileType>
     </ClInclude>
@@ -150,6 +154,7 @@
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="mk64n.h" />
+    <ClInclude Include="Model.h" />
     <ClInclude Include="obj2inf.h" />
     <ClInclude Include="obj2infConverter.h">
       <FileType>CppForm</FileType>
@@ -190,9 +195,6 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="icon1.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets" />

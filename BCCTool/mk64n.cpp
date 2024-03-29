@@ -4,17 +4,7 @@
 // https://github.com/coreynguyen/beetle_crazy_cup
 
 #include "mk64n.h"
-#include <stdio.h>
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <string>
-#include <cstring>
-#include <iomanip>
-#include <windows.h>
-#include <shlwapi.h>
-#include <vector>
-#include <filesystem>
+#include "Model.h"
 
 namespace fs = std::filesystem;
 
@@ -96,6 +86,7 @@ int inf2obj::Convert()
 			fmtINF inf;
 			fmtTRI tri;
 			fmtNOR nor;
+
 			size_t ptr = 0;
 			std::string fpath = getFilenamePath(file);
 			std::string fname = getFilenameFile(file);
@@ -120,6 +111,10 @@ int inf2obj::Convert()
 			num_triangles = tri.num_triangles;
 			vertices = inf.vertices;
 			num_vertices = inf.num_vertices;
+
+			Model::SetCounts(num_vertices, num_triangles);
+			Model::SetVertices(vertices);
+			Model::SetTriangles(verTri);
 
 			inf.write_obj(*path + "\\Converted\\" + fname + ".obj");
 		}
