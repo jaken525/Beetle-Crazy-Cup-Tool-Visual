@@ -1,6 +1,7 @@
 # Beetle Crazy Cup Tool: Visual Edition
-My project is related to the beetle crazy cup game. Supported.
+My project is related to the beetle crazy cup game. Not Supported.
 
+The development of the project stopped due to bad code and other interests :)
 With this program, you can work with game files. Useful for modding.
 
 # Includes
